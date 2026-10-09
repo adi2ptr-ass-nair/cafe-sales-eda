@@ -1,0 +1,1201 @@
+order_id,date,hour,day_of_week,item,category,unit_price_inr,quantity,payment_method,dine_in,customer_rating,total_inr
+ORD100041,2025-01-01,12,Wednesday,Brownie,Dessert,90,1,UPI,No,,90
+ORD100227,2025-01-02,11,Thursday,Masala Chai,Tea,30,1,Cash,Yes,5.0,30
+ORD100388,2025-01-02,11,Thursday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100833,2025-01-02,11,Thursday,Veg Sandwich,Food,110,2,Cash,Yes,3.0,220
+ORD100816,2025-01-02,15,Thursday,Brownie,Dessert,90,2,UPI,Yes,,180
+ORD100245,2025-01-02,16,Thursday,Brownie,Dessert,90,4,Card,Yes,5.0,360
+ORD100790,2025-01-02,22,Thursday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100998,2025-01-03,9,Friday,Mango Smoothie,Cold Drinks,130,3,UPI,No,3.0,390
+ORD100000,2025-01-03,22,Friday,Samosa,Food,25,1,Card,Yes,,25
+ORD100042,2025-01-04,12,Saturday,Samosa,Food,25,1,Card,Yes,4.0,25
+ORD100702,2025-01-06,7,Monday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100735,2025-01-06,17,Monday,Veg Sandwich,Food,110,4,UPI,No,4.0,440
+ORD100574,2025-01-07,8,Tuesday,Brownie,Dessert,90,1,Cash,No,5.0,90
+ORD101104,2025-01-07,17,Tuesday,Filter Coffee,Coffee,40,3,UPI,Yes,3.0,120
+ORD100718,2025-01-09,14,Thursday,Veg Sandwich,Food,110,1,Card,Yes,2.0,110
+ORD100908,2025-01-09,14,Thursday,Cappuccino,Coffee,120,1,UPI,Yes,2.0,120
+ORD100311,2025-01-09,16,Thursday,Masala Chai,Tea,30,1,Cash,Yes,,30
+ORD101041,2025-01-09,16,Thursday,Veg Sandwich,Food,110,1,UPI,Yes,5.0,110
+ORD100009,2025-01-10,9,Friday,Masala Chai,Tea,30,4,UPI,No,5.0,120
+ORD100235,2025-01-10,15,Friday,Samosa,Food,25,1,UPI,Yes,3.0,25
+ORD101085,2025-01-10,16,Friday,Samosa,Food,25,1,UPI,No,4.0,25
+ORD100068,2025-01-10,17,Friday,Filter Coffee,Coffee,40,4,UPI,Yes,,160
+ORD101136,2025-01-11,11,Saturday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100158,2025-01-12,7,Sunday,Samosa,Food,25,1,UPI,No,2.0,25
+ORD100098,2025-01-12,11,Sunday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100550,2025-01-12,14,Sunday,Masala Chai,Tea,30,1,UPI,Yes,1.0,30
+ORD101057,2025-01-12,14,Sunday,Cappuccino,Coffee,120,2,Card,No,4.0,240
+ORD100465,2025-01-13,14,Monday,Veg Sandwich,Food,110,2,UPI,No,4.0,220
+ORD100919,2025-01-13,20,Monday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD101144,2025-01-14,8,Tuesday,Masala Chai,Tea,30,1,UPI,No,5.0,30
+ORD100363,2025-01-14,16,Tuesday,Filter Coffee,Coffee,40,1,Cash,No,1.0,40
+ORD100480,2025-01-15,14,Wednesday,Masala Chai,Tea,30,2,UPI,No,2.0,60
+ORD100229,2025-01-15,15,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD100371,2025-01-15,16,Wednesday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100327,2025-01-15,18,Wednesday,Masala Chai,Tea,30,1,UPI,No,3.0,30
+ORD100839,2025-01-15,19,Wednesday,Masala Chai,Tea,30,3,Card,Yes,,90
+ORD100962,2025-01-17,10,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100379,2025-01-17,15,Friday,Samosa,Food,25,3,Cash,Yes,,75
+ORD100612,2025-01-17,17,Friday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,5.0,130
+ORD100121,2025-01-17,20,Friday,Veg Sandwich,Food,110,2,Cash,No,5.0,220
+ORD100483,2025-01-18,19,Saturday,Cold Coffee,Coffee,140,2,UPI,Yes,4.0,280
+ORD101063,2025-01-19,8,Sunday,Veg Sandwich,Food,110,1,UPI,Yes,4.0,110
+ORD100011,2025-01-19,10,Sunday,Mango Smoothie,Cold Drinks,130,2,UPI,No,3.0,260
+ORD100104,2025-01-19,10,Sunday,Samosa,Food,25,3,Card,No,5.0,75
+ORD100571,2025-01-19,15,Sunday,Brownie,Dessert,90,3,UPI,Yes,3.0,270
+ORD100937,2025-01-19,20,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,3.0,80
+ORD100217,2025-01-20,9,Monday,Filter Coffee,Coffee,40,3,Card,No,5.0,120
+ORD100087,2025-01-21,9,Tuesday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD100956,2025-01-21,9,Tuesday,Samosa,Food,25,1,UPI,No,,25
+ORD101051,2025-01-21,15,Tuesday,Filter Coffee,Coffee,40,2,UPI,No,4.0,80
+ORD101108,2025-01-22,9,Wednesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,4.0,130
+ORD100387,2025-01-22,11,Wednesday,Mango Smoothie,Cold Drinks,130,1,Cash,No,1.0,130
+ORD100788,2025-01-22,12,Wednesday,Samosa,Food,25,1,Cash,Yes,5.0,25
+ORD100256,2025-01-22,14,Wednesday,Samosa,Food,25,1,Cash,Yes,5.0,25
+ORD100712,2025-01-22,14,Wednesday,Samosa,Food,25,2,Cash,Yes,4.0,50
+ORD100783,2025-01-22,16,Wednesday,Green Tea,Tea,60,3,Cash,Yes,5.0,180
+ORD100059,2025-01-22,17,Wednesday,Filter Coffee,Coffee,40,2,Card,No,4.0,80
+ORD101132,2025-01-23,13,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,2.0,40
+ORD101100,2025-01-23,15,Thursday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD100581,2025-01-23,18,Thursday,Masala Chai,Tea,30,1,UPI,No,5.0,30
+ORD100124,2025-01-23,20,Thursday,Filter Coffee,Coffee,40,1,Card,Yes,5.0,40
+ORD100403,2025-01-24,12,Friday,Filter Coffee,Coffee,40,3,UPI,Yes,5.0,120
+ORD100487,2025-01-24,16,Friday,Cappuccino,Coffee,120,4,Cash,Yes,5.0,480
+ORD100039,2025-01-25,13,Saturday,Veg Sandwich,Food,110,1,Cash,Yes,4.0,110
+ORD100310,2025-01-25,14,Saturday,Masala Chai,Tea,30,1,UPI,No,5.0,30
+ORD100563,2025-01-25,16,Saturday,Veg Sandwich,Food,110,2,UPI,No,3.0,220
+ORD101160,2025-01-25,21,Saturday,Filter Coffee,Coffee,40,2,Cash,Yes,,80
+ORD100190,2025-01-26,10,Sunday,Mango Smoothie,Cold Drinks,130,2,Cash,Yes,3.0,260
+ORD100394,2025-01-26,17,Sunday,Filter Coffee,Coffee,40,3,UPI,Yes,5.0,120
+ORD100304,2025-01-26,21,Sunday,Brownie,Dessert,90,1,UPI,Yes,,90
+ORD100754,2025-01-26,21,Sunday,Veg Sandwich,Food,110,4,Card,Yes,4.0,440
+ORD101010,2025-01-26,21,Sunday,Veg Sandwich,Food,110,1,Cash,Yes,1.0,110
+ORD100669,2025-01-26,22,Sunday,Masala Chai,Tea,30,2,Cash,No,5.0,60
+ORD100934,2025-01-27,10,Monday,Samosa,Food,25,1,UPI,Yes,,25
+ORD101131,2025-01-27,12,Monday,Masala Chai,Tea,30,3,UPI,No,3.0,90
+ORD100876,2025-01-27,14,Monday,Cold Coffee,Coffee,140,2,UPI,Yes,5.0,280
+ORD100268,2025-01-28,8,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD101135,2025-01-28,14,Tuesday,Cold Coffee,Coffee,140,1,Cash,Yes,4.0,140
+ORD101179,2025-01-29,7,Wednesday,Cappuccino,Coffee,120,2,UPI,No,4.0,240
+ORD100078,2025-01-29,14,Wednesday,Masala Chai,Tea,30,2,UPI,Yes,3.0,60
+ORD100455,2025-01-29,19,Wednesday,Cappuccino,Coffee,120,1,Card,Yes,,120
+ORD100351,2025-01-30,11,Thursday,Filter Coffee,Coffee,40,1,Card,No,,40
+ORD100733,2025-01-30,17,Thursday,Cold Coffee,Coffee,140,3,UPI,Yes,4.0,420
+ORD100234,2025-01-31,16,Friday,Mango Smoothie,Cold Drinks,130,1,Card,No,3.0,130
+ORD100464,2025-02-01,11,Saturday,Green Tea,Tea,60,1,Cash,Yes,4.0,60
+ORD100880,2025-02-01,13,Saturday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD100128,2025-02-01,15,Saturday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100920,2025-02-01,16,Saturday,Filter Coffee,Coffee,40,3,Card,Yes,4.0,120
+ORD101142,2025-02-01,17,Saturday,Brownie,Dessert,90,1,Cash,Yes,4.0,90
+ORD101127,2025-02-02,14,Sunday,Veg Sandwich,Food,110,1,Cash,No,,110
+ORD101134,2025-02-02,16,Sunday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,5.0,130
+ORD100453,2025-02-02,17,Sunday,Filter Coffee,Coffee,40,3,UPI,No,3.0,120
+ORD100847,2025-02-02,19,Sunday,Veg Sandwich,Food,110,1,UPI,Yes,4.0,110
+ORD100511,2025-02-03,7,Monday,Brownie,Dessert,90,1,Cash,Yes,3.0,90
+ORD100415,2025-02-04,13,Tuesday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100193,2025-02-04,14,Tuesday,Brownie,Dessert,90,1,UPI,Yes,3.0,90
+ORD100052,2025-02-04,18,Tuesday,Samosa,Food,25,2,Card,Yes,,50
+ORD101013,2025-02-04,18,Tuesday,Mango Smoothie,Cold Drinks,130,1,UPI,No,5.0,130
+ORD100341,2025-02-05,7,Wednesday,Mango Smoothie,Cold Drinks,130,2,Cash,Yes,5.0,260
+ORD100883,2025-02-05,16,Wednesday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD101018,2025-02-05,22,Wednesday,Filter Coffee,Coffee,40,3,UPI,No,5.0,120
+ORD100071,2025-02-06,10,Thursday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD100281,2025-02-06,10,Thursday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100942,2025-02-06,11,Thursday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100556,2025-02-06,14,Thursday,Cappuccino,Coffee,120,2,Card,Yes,4.0,240
+ORD100101,2025-02-06,16,Thursday,Veg Sandwich,Food,110,1,UPI,Yes,2.0,110
+ORD100634,2025-02-06,17,Thursday,Filter Coffee,Coffee,40,1,UPI,No,2.0,40
+ORD100114,2025-02-07,12,Friday,Filter Coffee,Coffee,40,1,Card,Yes,4.0,40
+ORD101096,2025-02-07,15,Friday,Cappuccino,Coffee,120,2,Cash,Yes,,240
+ORD100155,2025-02-07,16,Friday,Veg Sandwich,Food,110,3,UPI,No,4.0,330
+ORD100222,2025-02-07,16,Friday,Veg Sandwich,Food,110,2,UPI,Yes,4.0,220
+ORD100022,2025-02-07,20,Friday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,2.0,260
+ORD100214,2025-02-08,13,Saturday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100074,2025-02-08,14,Saturday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100952,2025-02-08,14,Saturday,Cappuccino,Coffee,120,1,UPI,No,2.0,120
+ORD100545,2025-02-09,7,Sunday,Masala Chai,Tea,30,2,Cash,Yes,4.0,60
+ORD101090,2025-02-09,12,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,2.0,120
+ORD100676,2025-02-09,14,Sunday,Cheesecake Slice,Dessert,150,1,UPI,Yes,5.0,150
+ORD100103,2025-02-09,17,Sunday,Mango Smoothie,Cold Drinks,130,2,Card,No,5.0,260
+ORD100749,2025-02-09,20,Sunday,Brownie,Dessert,90,2,UPI,Yes,5.0,180
+ORD100633,2025-02-10,7,Monday,Cold Coffee,Coffee,140,3,UPI,No,5.0,420
+ORD100510,2025-02-10,13,Monday,Filter Coffee,Coffee,40,2,Cash,Yes,5.0,80
+ORD101190,2025-02-10,16,Monday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100322,2025-02-11,10,Tuesday,Cold Coffee,Coffee,140,2,UPI,No,5.0,280
+ORD100452,2025-02-11,12,Tuesday,Samosa,Food,25,3,UPI,Yes,,75
+ORD100626,2025-02-11,12,Tuesday,Samosa,Food,25,1,Cash,Yes,4.0,25
+ORD100280,2025-02-12,18,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100105,2025-02-12,20,Wednesday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100385,2025-02-12,22,Wednesday,Mango Smoothie,Cold Drinks,130,2,Card,Yes,3.0,260
+ORD100969,2025-02-13,10,Thursday,Cappuccino,Coffee,120,1,Card,Yes,5.0,120
+ORD100904,2025-02-13,11,Thursday,Mango Smoothie,Cold Drinks,130,3,Card,Yes,3.0,390
+ORD100299,2025-02-13,12,Thursday,Veg Sandwich,Food,110,2,Cash,No,4.0,220
+ORD101129,2025-02-13,16,Thursday,Mango Smoothie,Cold Drinks,130,2,Card,Yes,4.0,260
+ORD100760,2025-02-13,20,Thursday,Samosa,Food,25,3,UPI,No,5.0,75
+ORD100109,2025-02-14,13,Friday,Cheesecake Slice,Dessert,150,2,Card,No,3.0,300
+ORD100948,2025-02-14,13,Friday,Brownie,Dessert,90,1,UPI,No,4.0,90
+ORD101098,2025-02-14,20,Friday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100522,2025-02-15,7,Saturday,Filter Coffee,Coffee,40,4,Cash,No,5.0,160
+ORD100663,2025-02-16,7,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD100422,2025-02-16,13,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100149,2025-02-16,14,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100418,2025-02-16,14,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100429,2025-02-16,14,Sunday,Samosa,Food,25,4,UPI,Yes,3.0,100
+ORD100947,2025-02-16,15,Sunday,Brownie,Dessert,90,1,Card,No,3.0,90
+ORD100298,2025-02-16,16,Sunday,Samosa,Food,25,2,Card,No,4.0,50
+ORD101112,2025-02-16,16,Sunday,Green Tea,Tea,60,3,Cash,Yes,4.0,180
+ORD100508,2025-02-16,17,Sunday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100764,2025-02-16,21,Sunday,Cheesecake Slice,Dessert,150,2,UPI,Yes,4.0,300
+ORD100296,2025-02-16,22,Sunday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,5.0,130
+ORD100701,2025-02-17,7,Monday,Cold Coffee,Coffee,140,4,UPI,Yes,,560
+ORD100886,2025-02-17,10,Monday,Cold Coffee,Coffee,140,1,Cash,No,5.0,140
+ORD100621,2025-02-17,14,Monday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100030,2025-02-18,8,Tuesday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD101137,2025-02-18,11,Tuesday,Masala Chai,Tea,30,3,UPI,Yes,4.0,90
+ORD100360,2025-02-18,14,Tuesday,Mango Smoothie,Cold Drinks,130,2,Cash,No,5.0,260
+ORD101126,2025-02-18,19,Tuesday,Masala Chai,Tea,30,1,Cash,Yes,4.0,30
+ORD100907,2025-02-19,12,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100868,2025-02-19,13,Wednesday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100079,2025-02-19,15,Wednesday,Samosa,Food,25,2,UPI,No,4.0,50
+ORD100326,2025-02-19,15,Wednesday,Samosa,Food,25,1,Cash,Yes,,25
+ORD100335,2025-02-20,15,Thursday,Green Tea,Tea,60,1,Card,Yes,4.0,60
+ORD101113,2025-02-21,7,Friday,Mango Smoothie,Cold Drinks,130,2,Card,Yes,3.0,260
+ORD100848,2025-02-21,10,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100803,2025-02-21,15,Friday,Green Tea,Tea,60,3,UPI,Yes,5.0,180
+ORD100118,2025-02-22,7,Saturday,Masala Chai,Tea,30,1,UPI,Yes,1.0,30
+ORD100657,2025-02-23,18,Sunday,Cappuccino,Coffee,120,1,Cash,Yes,3.0,120
+ORD100490,2025-02-24,11,Monday,Samosa,Food,25,2,UPI,Yes,,50
+ORD100488,2025-02-24,12,Monday,Green Tea,Tea,60,4,Card,Yes,5.0,240
+ORD100262,2025-02-24,16,Monday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100668,2025-02-24,19,Monday,Cappuccino,Coffee,120,1,UPI,Yes,3.0,120
+ORD100238,2025-02-25,16,Tuesday,Filter Coffee,Coffee,40,1,Card,Yes,4.0,40
+ORD100485,2025-02-26,8,Wednesday,Masala Chai,Tea,30,4,Cash,No,,120
+ORD100637,2025-02-26,10,Wednesday,Samosa,Food,25,3,UPI,Yes,5.0,75
+ORD101167,2025-02-26,11,Wednesday,Masala Chai,Tea,30,2,Card,Yes,3.0,60
+ORD100391,2025-02-26,13,Wednesday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100852,2025-02-27,9,Thursday,Brownie,Dessert,90,4,UPI,No,4.0,360
+ORD100026,2025-02-27,10,Thursday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100467,2025-02-27,10,Thursday,Mango Smoothie,Cold Drinks,130,3,Cash,Yes,,390
+ORD101002,2025-02-27,17,Thursday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100762,2025-02-28,7,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD100950,2025-02-28,7,Friday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100926,2025-02-28,11,Friday,Filter Coffee,Coffee,40,4,UPI,No,5.0,160
+ORD100259,2025-02-28,14,Friday,Green Tea,Tea,60,1,Card,Yes,,60
+ORD100964,2025-02-28,19,Friday,Mango Smoothie,Cold Drinks,130,4,UPI,Yes,4.0,520
+ORD100921,2025-03-01,7,Saturday,Brownie,Dessert,90,1,Card,No,5.0,90
+ORD100532,2025-03-01,8,Saturday,Cold Coffee,Coffee,140,3,Card,Yes,,420
+ORD100319,2025-03-01,14,Saturday,Mango Smoothie,Cold Drinks,130,1,UPI,No,4.0,130
+ORD100032,2025-03-01,18,Saturday,Cold Coffee,Coffee,140,1,UPI,Yes,,140
+ORD100195,2025-03-02,7,Sunday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100870,2025-03-02,20,Sunday,Samosa,Food,25,2,UPI,No,5.0,50
+ORD100648,2025-03-03,7,Monday,Veg Sandwich,Food,110,1,UPI,Yes,4.0,110
+ORD101116,2025-03-03,7,Monday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD101161,2025-03-03,10,Monday,Veg Sandwich,Food,110,1,UPI,Yes,5.0,110
+ORD100779,2025-03-03,11,Monday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD101123,2025-03-03,15,Monday,Filter Coffee,Coffee,40,1,Cash,No,4.0,40
+ORD100539,2025-03-03,22,Monday,Brownie,Dessert,90,4,UPI,No,,360
+ORD101158,2025-03-03,22,Monday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100404,2025-03-04,10,Tuesday,Mango Smoothie,Cold Drinks,130,2,UPI,No,,260
+ORD100049,2025-03-04,16,Tuesday,Filter Coffee,Coffee,40,3,UPI,No,5.0,120
+ORD100133,2025-03-04,18,Tuesday,Cold Coffee,Coffee,140,3,UPI,No,4.0,420
+ORD100651,2025-03-05,7,Wednesday,Cheesecake Slice,Dessert,150,1,UPI,Yes,4.0,150
+ORD100696,2025-03-05,11,Wednesday,Samosa,Food,25,1,UPI,Yes,2.0,25
+ORD100856,2025-03-05,12,Wednesday,Samosa,Food,25,3,UPI,Yes,,75
+ORD100888,2025-03-05,13,Wednesday,Filter Coffee,Coffee,40,1,Card,Yes,5.0,40
+ORD100530,2025-03-05,22,Wednesday,Veg Sandwich,Food,110,2,UPI,Yes,5.0,220
+ORD100795,2025-03-06,12,Thursday,Cold Coffee,Coffee,140,2,Card,Yes,3.0,280
+ORD100077,2025-03-06,16,Thursday,Veg Sandwich,Food,110,4,Card,Yes,,440
+ORD100687,2025-03-06,17,Thursday,Mango Smoothie,Cold Drinks,130,4,UPI,Yes,4.0,520
+ORD100082,2025-03-07,10,Friday,Samosa,Food,25,2,UPI,Yes,5.0,50
+ORD100698,2025-03-08,14,Saturday,Veg Sandwich,Food,110,1,Card,Yes,,110
+ORD100212,2025-03-08,17,Saturday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100686,2025-03-08,17,Saturday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD100525,2025-03-08,18,Saturday,Cold Coffee,Coffee,140,3,UPI,Yes,5.0,420
+ORD100340,2025-03-09,11,Sunday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100528,2025-03-09,15,Sunday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100889,2025-03-09,21,Sunday,Veg Sandwich,Food,110,1,UPI,No,5.0,110
+ORD100543,2025-03-10,12,Monday,Mango Smoothie,Cold Drinks,130,3,UPI,Yes,5.0,390
+ORD100855,2025-03-10,12,Monday,Masala Chai,Tea,30,2,UPI,No,4.0,60
+ORD100337,2025-03-10,14,Monday,Samosa,Food,25,2,UPI,No,5.0,50
+ORD100958,2025-03-10,14,Monday,Masala Chai,Tea,30,1,Cash,No,5.0,30
+ORD101128,2025-03-10,15,Monday,Veg Sandwich,Food,110,1,Cash,Yes,,110
+ORD100993,2025-03-10,16,Monday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100273,2025-03-10,19,Monday,Green Tea,Tea,60,1,Card,No,5.0,60
+ORD100644,2025-03-11,18,Tuesday,Veg Sandwich,Food,110,2,Cash,Yes,4.0,220
+ORD100409,2025-03-11,22,Tuesday,Mango Smoothie,Cold Drinks,130,1,Cash,Yes,3.0,130
+ORD100793,2025-03-12,7,Wednesday,Filter Coffee,Coffee,40,2,Cash,Yes,4.0,80
+ORD100894,2025-03-12,7,Wednesday,Samosa,Food,25,1,UPI,Yes,1.0,25
+ORD100153,2025-03-12,11,Wednesday,Masala Chai,Tea,30,1,Card,No,4.0,30
+ORD100460,2025-03-12,14,Wednesday,Green Tea,Tea,60,2,UPI,Yes,5.0,120
+ORD100592,2025-03-12,17,Wednesday,Cold Coffee,Coffee,140,1,UPI,No,5.0,140
+ORD100857,2025-03-13,7,Thursday,Brownie,Dessert,90,2,UPI,Yes,5.0,180
+ORD100489,2025-03-13,8,Thursday,Masala Chai,Tea,30,3,UPI,Yes,,90
+ORD100752,2025-03-13,13,Thursday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100450,2025-03-13,16,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100781,2025-03-13,16,Thursday,Cheesecake Slice,Dessert,150,2,Cash,Yes,,300
+ORD100065,2025-03-13,19,Thursday,Masala Chai,Tea,30,3,UPI,Yes,4.0,90
+ORD100344,2025-03-14,7,Friday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD100414,2025-03-14,10,Friday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100412,2025-03-14,12,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100639,2025-03-14,12,Friday,Brownie,Dessert,90,1,Cash,Yes,5.0,90
+ORD100623,2025-03-14,13,Friday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100110,2025-03-14,17,Friday,Masala Chai,Tea,30,2,UPI,No,,60
+ORD101103,2025-03-15,8,Saturday,Brownie,Dessert,90,2,UPI,Yes,5.0,180
+ORD100499,2025-03-15,15,Saturday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100887,2025-03-15,20,Saturday,Filter Coffee,Coffee,40,3,Cash,No,2.0,120
+ORD100095,2025-03-16,13,Sunday,Veg Sandwich,Food,110,1,Card,Yes,4.0,110
+ORD100364,2025-03-16,14,Sunday,Veg Sandwich,Food,110,1,Card,Yes,2.0,110
+ORD100372,2025-03-16,18,Sunday,Cold Coffee,Coffee,140,1,UPI,No,4.0,140
+ORD100242,2025-03-16,22,Sunday,Cappuccino,Coffee,120,2,Cash,No,2.0,240
+ORD100841,2025-03-17,7,Monday,Samosa,Food,25,2,Cash,Yes,3.0,50
+ORD100678,2025-03-17,10,Monday,Filter Coffee,Coffee,40,2,Card,No,4.0,80
+ORD101182,2025-03-17,11,Monday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD101032,2025-03-17,12,Monday,Masala Chai,Tea,30,4,UPI,No,5.0,120
+ORD100469,2025-03-17,15,Monday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100073,2025-03-17,17,Monday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100122,2025-03-18,7,Tuesday,Filter Coffee,Coffee,40,2,Card,Yes,5.0,80
+ORD100927,2025-03-18,8,Tuesday,Brownie,Dessert,90,3,UPI,No,4.0,270
+ORD100840,2025-03-18,15,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,1.0,40
+ORD100896,2025-03-19,11,Wednesday,Cappuccino,Coffee,120,3,UPI,Yes,4.0,360
+ORD100043,2025-03-19,14,Wednesday,Cold Coffee,Coffee,140,2,Cash,Yes,3.0,280
+ORD100831,2025-03-19,15,Wednesday,Masala Chai,Tea,30,2,UPI,No,5.0,60
+ORD101125,2025-03-19,17,Wednesday,Masala Chai,Tea,30,1,Card,No,,30
+ORD100438,2025-03-20,7,Thursday,Samosa,Food,25,1,UPI,No,2.0,25
+ORD100264,2025-03-20,11,Thursday,Mango Smoothie,Cold Drinks,130,1,UPI,No,5.0,130
+ORD100201,2025-03-20,13,Thursday,Mango Smoothie,Cold Drinks,130,2,UPI,No,1.0,260
+ORD100617,2025-03-20,13,Thursday,Cold Coffee,Coffee,140,2,UPI,No,5.0,280
+ORD100333,2025-03-20,15,Thursday,Brownie,Dessert,90,2,UPI,Yes,4.0,180
+ORD100061,2025-03-20,16,Thursday,Masala Chai,Tea,30,1,Card,No,,30
+ORD100069,2025-03-20,17,Thursday,Masala Chai,Tea,30,1,Card,No,4.0,30
+ORD100778,2025-03-20,18,Thursday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD101075,2025-03-20,18,Thursday,Cold Coffee,Coffee,140,1,UPI,No,3.0,140
+ORD101185,2025-03-21,14,Friday,Brownie,Dessert,90,2,UPI,No,3.0,180
+ORD100152,2025-03-21,16,Friday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100473,2025-03-21,16,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100302,2025-03-22,10,Saturday,Masala Chai,Tea,30,3,Cash,Yes,,90
+ORD101043,2025-03-22,13,Saturday,Veg Sandwich,Food,110,3,Card,No,5.0,330
+ORD100780,2025-03-23,8,Sunday,Cappuccino,Coffee,120,1,UPI,No,1.0,120
+ORD100628,2025-03-23,12,Sunday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100346,2025-03-23,17,Sunday,Mango Smoothie,Cold Drinks,130,1,Card,No,4.0,130
+ORD101012,2025-03-23,17,Sunday,Masala Chai,Tea,30,3,UPI,Yes,,90
+ORD101070,2025-03-23,22,Sunday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100796,2025-03-24,7,Monday,Filter Coffee,Coffee,40,2,Card,Yes,3.0,80
+ORD100513,2025-03-24,16,Monday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100913,2025-03-24,17,Monday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,3.0,130
+ORD100751,2025-03-24,18,Monday,Cold Coffee,Coffee,140,2,UPI,No,3.0,280
+ORD100567,2025-03-25,7,Tuesday,Filter Coffee,Coffee,40,2,UPI,No,5.0,80
+ORD100935,2025-03-25,14,Tuesday,Cappuccino,Coffee,120,1,Card,Yes,,120
+ORD100535,2025-03-25,19,Tuesday,Cappuccino,Coffee,120,2,UPI,Yes,5.0,240
+ORD101083,2025-03-26,13,Wednesday,Brownie,Dessert,90,3,UPI,Yes,4.0,270
+ORD100688,2025-03-26,22,Wednesday,Samosa,Food,25,2,Card,No,5.0,50
+ORD101034,2025-03-27,14,Thursday,Masala Chai,Tea,30,2,UPI,No,5.0,60
+ORD100809,2025-03-27,15,Thursday,Mango Smoothie,Cold Drinks,130,1,Cash,Yes,1.0,130
+ORD100481,2025-03-28,10,Friday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100709,2025-03-28,12,Friday,Masala Chai,Tea,30,1,Cash,Yes,4.0,30
+ORD100854,2025-03-28,17,Friday,Cappuccino,Coffee,120,1,Cash,Yes,,120
+ORD100971,2025-03-28,21,Friday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD100892,2025-03-28,22,Friday,Cappuccino,Coffee,120,1,Cash,No,5.0,120
+ORD100693,2025-03-29,12,Saturday,Cold Coffee,Coffee,140,3,Card,No,4.0,420
+ORD100240,2025-03-29,14,Saturday,Brownie,Dessert,90,1,UPI,No,4.0,90
+ORD100266,2025-03-29,14,Saturday,Cappuccino,Coffee,120,2,Card,Yes,4.0,240
+ORD100566,2025-03-29,14,Saturday,Samosa,Food,25,1,UPI,No,4.0,25
+ORD100683,2025-03-29,14,Saturday,Masala Chai,Tea,30,1,Cash,Yes,3.0,30
+ORD100672,2025-03-29,21,Saturday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,3.0,130
+ORD100874,2025-03-30,10,Sunday,Samosa,Food,25,1,Card,No,2.0,25
+ORD100086,2025-03-31,8,Monday,Samosa,Food,25,1,Cash,Yes,,25
+ORD100350,2025-03-31,10,Monday,Green Tea,Tea,60,1,UPI,Yes,2.0,60
+ORD100286,2025-03-31,11,Monday,Filter Coffee,Coffee,40,3,UPI,Yes,5.0,120
+ORD101169,2025-03-31,17,Monday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100877,2025-03-31,19,Monday,Cold Coffee,Coffee,140,2,UPI,Yes,3.0,280
+ORD101081,2025-03-31,19,Monday,Cheesecake Slice,Dessert,150,2,Card,No,3.0,300
+ORD100932,2025-04-01,7,Tuesday,Masala Chai,Tea,30,3,UPI,No,4.0,90
+ORD100660,2025-04-01,11,Tuesday,Cappuccino,Coffee,120,1,Card,No,,120
+ORD100985,2025-04-01,11,Tuesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,5.0,130
+ORD101194,2025-04-01,17,Tuesday,Brownie,Dessert,90,2,UPI,Yes,4.0,180
+ORD101030,2025-04-02,14,Wednesday,Masala Chai,Tea,30,3,Card,No,5.0,90
+ORD100990,2025-04-03,12,Thursday,Veg Sandwich,Food,110,1,UPI,Yes,,110
+ORD100905,2025-04-03,13,Thursday,Veg Sandwich,Food,110,1,UPI,Yes,3.0,110
+ORD100821,2025-04-03,19,Thursday,Green Tea,Tea,60,2,UPI,No,5.0,120
+ORD100207,2025-04-04,11,Friday,Veg Sandwich,Food,110,1,Card,Yes,4.0,110
+ORD100918,2025-04-04,15,Friday,Cold Coffee,Coffee,140,2,Card,Yes,,280
+ORD101067,2025-04-05,14,Saturday,Veg Sandwich,Food,110,3,Card,No,4.0,330
+ORD100020,2025-04-05,15,Saturday,Samosa,Food,25,4,UPI,Yes,3.0,100
+ORD100017,2025-04-05,18,Saturday,Filter Coffee,Coffee,40,2,UPI,No,3.0,80
+ORD101165,2025-04-06,9,Sunday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100494,2025-04-06,14,Sunday,Samosa,Food,25,2,UPI,Yes,5.0,50
+ORD100799,2025-04-07,7,Monday,Samosa,Food,25,2,Cash,Yes,5.0,50
+ORD101114,2025-04-07,11,Monday,Mango Smoothie,Cold Drinks,130,2,UPI,No,4.0,260
+ORD100091,2025-04-07,12,Monday,Veg Sandwich,Food,110,1,Card,Yes,5.0,110
+ORD100815,2025-04-07,20,Monday,Cheesecake Slice,Dessert,150,2,UPI,Yes,,300
+ORD100901,2025-04-08,13,Tuesday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100767,2025-04-08,22,Tuesday,Filter Coffee,Coffee,40,1,Cash,Yes,3.0,40
+ORD100029,2025-04-09,18,Wednesday,Veg Sandwich,Food,110,2,Card,No,5.0,220
+ORD100176,2025-04-09,19,Wednesday,Masala Chai,Tea,30,3,Cash,Yes,5.0,90
+ORD100257,2025-04-09,20,Wednesday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD100659,2025-04-10,11,Thursday,Cold Coffee,Coffee,140,1,Card,Yes,,140
+ORD100631,2025-04-10,18,Thursday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100699,2025-04-10,18,Thursday,Cappuccino,Coffee,120,2,UPI,Yes,5.0,240
+ORD100811,2025-04-11,7,Friday,Filter Coffee,Coffee,40,2,Card,Yes,3.0,80
+ORD100906,2025-04-11,8,Friday,Masala Chai,Tea,30,2,UPI,No,3.0,60
+ORD100903,2025-04-11,10,Friday,Masala Chai,Tea,30,1,Card,Yes,4.0,30
+ORD100682,2025-04-12,13,Saturday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD100554,2025-04-12,15,Saturday,Filter Coffee,Coffee,40,1,Cash,No,4.0,40
+ORD100448,2025-04-13,13,Sunday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100638,2025-04-14,9,Monday,Samosa,Food,25,2,Cash,Yes,2.0,50
+ORD101198,2025-04-14,10,Monday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100578,2025-04-14,14,Monday,Brownie,Dessert,90,1,UPI,Yes,,90
+ORD100305,2025-04-14,15,Monday,Masala Chai,Tea,30,3,Cash,Yes,4.0,90
+ORD100386,2025-04-14,16,Monday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100470,2025-04-14,16,Monday,Masala Chai,Tea,30,2,Cash,No,4.0,60
+ORD101019,2025-04-14,16,Monday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100411,2025-04-15,11,Tuesday,Veg Sandwich,Food,110,1,UPI,No,3.0,110
+ORD100893,2025-04-16,10,Wednesday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100967,2025-04-16,12,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD101195,2025-04-16,13,Wednesday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100018,2025-04-16,15,Wednesday,Brownie,Dessert,90,1,UPI,No,4.0,90
+ORD100140,2025-04-16,16,Wednesday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD100406,2025-04-16,17,Wednesday,Cappuccino,Coffee,120,2,UPI,Yes,4.0,240
+ORD100988,2025-04-16,19,Wednesday,Cold Coffee,Coffee,140,1,Card,No,4.0,140
+ORD100182,2025-04-17,11,Thursday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100641,2025-04-17,11,Thursday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD101124,2025-04-17,18,Thursday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD101036,2025-04-18,12,Friday,Cold Coffee,Coffee,140,2,UPI,No,,280
+ORD101191,2025-04-18,17,Friday,Cold Coffee,Coffee,140,2,UPI,Yes,5.0,280
+ORD100777,2025-04-19,13,Saturday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD101074,2025-04-19,18,Saturday,Brownie,Dessert,90,3,UPI,Yes,5.0,270
+ORD100804,2025-04-20,14,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD101029,2025-04-20,14,Sunday,Masala Chai,Tea,30,2,Cash,No,3.0,60
+ORD100432,2025-04-20,16,Sunday,Veg Sandwich,Food,110,3,UPI,Yes,3.0,330
+ORD100066,2025-04-20,17,Sunday,Masala Chai,Tea,30,3,UPI,No,2.0,90
+ORD100375,2025-04-21,12,Monday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100307,2025-04-21,13,Monday,Veg Sandwich,Food,110,1,Cash,No,5.0,110
+ORD100705,2025-04-21,13,Monday,Masala Chai,Tea,30,3,Cash,Yes,3.0,90
+ORD100596,2025-04-21,15,Monday,Samosa,Food,25,1,UPI,No,3.0,25
+ORD100194,2025-04-22,15,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100941,2025-04-22,16,Tuesday,Brownie,Dessert,90,1,UPI,Yes,2.0,90
+ORD100972,2025-04-23,9,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD101148,2025-04-23,14,Wednesday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100661,2025-04-23,16,Wednesday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD101183,2025-04-23,21,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD101102,2025-04-24,10,Thursday,Samosa,Food,25,1,Card,Yes,4.0,25
+ORD100407,2025-04-24,16,Thursday,Brownie,Dessert,90,4,UPI,Yes,3.0,360
+ORD100380,2025-04-24,17,Thursday,Masala Chai,Tea,30,2,UPI,No,4.0,60
+ORD100033,2025-04-25,7,Friday,Cold Coffee,Coffee,140,1,Card,Yes,5.0,140
+ORD100697,2025-04-25,12,Friday,Green Tea,Tea,60,3,UPI,No,4.0,180
+ORD100763,2025-04-25,13,Friday,Filter Coffee,Coffee,40,1,Card,Yes,2.0,40
+ORD100466,2025-04-26,11,Saturday,Veg Sandwich,Food,110,1,UPI,Yes,5.0,110
+ORD101046,2025-04-27,10,Sunday,Cappuccino,Coffee,120,2,Card,Yes,3.0,240
+ORD100083,2025-04-27,12,Sunday,Filter Coffee,Coffee,40,1,Card,No,5.0,40
+ORD100151,2025-04-28,12,Monday,Cheesecake Slice,Dessert,150,3,Cash,No,4.0,450
+ORD100187,2025-04-28,12,Monday,Filter Coffee,Coffee,40,2,Cash,Yes,4.0,80
+ORD100527,2025-04-28,16,Monday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,,130
+ORD100125,2025-04-29,12,Tuesday,Masala Chai,Tea,30,1,UPI,Yes,1.0,30
+ORD100520,2025-04-29,22,Tuesday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100136,2025-04-30,7,Wednesday,Mango Smoothie,Cold Drinks,130,4,UPI,Yes,5.0,520
+ORD100642,2025-04-30,16,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100175,2025-05-01,11,Thursday,Filter Coffee,Coffee,40,2,Cash,Yes,4.0,80
+ORD101173,2025-05-01,11,Thursday,Samosa,Food,25,1,Cash,Yes,4.0,25
+ORD100249,2025-05-01,14,Thursday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD101121,2025-05-02,11,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100994,2025-05-03,12,Saturday,Mango Smoothie,Cold Drinks,130,2,UPI,No,,260
+ORD100236,2025-05-03,18,Saturday,Masala Chai,Tea,30,2,UPI,Yes,,60
+ORD101033,2025-05-03,20,Saturday,Cheesecake Slice,Dessert,150,1,UPI,Yes,3.0,150
+ORD101196,2025-05-04,7,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100850,2025-05-04,13,Sunday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100684,2025-05-04,16,Sunday,Veg Sandwich,Food,110,2,UPI,Yes,4.0,220
+ORD100090,2025-05-05,10,Monday,Filter Coffee,Coffee,40,2,Cash,No,,80
+ORD100812,2025-05-05,16,Monday,Mango Smoothie,Cold Drinks,130,1,UPI,No,4.0,130
+ORD101086,2025-05-05,17,Monday,Samosa,Food,25,2,UPI,Yes,5.0,50
+ORD100060,2025-05-05,18,Monday,Veg Sandwich,Food,110,1,UPI,No,4.0,110
+ORD100690,2025-05-06,12,Tuesday,Cappuccino,Coffee,120,3,Card,No,3.0,360
+ORD100084,2025-05-06,14,Tuesday,Filter Coffee,Coffee,40,3,Cash,Yes,3.0,120
+ORD100339,2025-05-06,17,Tuesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,3.0,130
+ORD100773,2025-05-06,19,Tuesday,Brownie,Dessert,90,1,UPI,Yes,,90
+ORD100597,2025-05-07,9,Wednesday,Veg Sandwich,Food,110,1,Cash,Yes,5.0,110
+ORD100189,2025-05-07,11,Wednesday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD101157,2025-05-07,15,Wednesday,Filter Coffee,Coffee,40,2,Cash,No,4.0,80
+ORD100509,2025-05-07,16,Wednesday,Filter Coffee,Coffee,40,2,Card,Yes,4.0,80
+ORD100620,2025-05-08,11,Thursday,Samosa,Food,25,2,UPI,Yes,,50
+ORD101053,2025-05-08,11,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100024,2025-05-08,14,Thursday,Samosa,Food,25,1,Card,Yes,4.0,25
+ORD100184,2025-05-08,14,Thursday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD101109,2025-05-08,16,Thursday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD101005,2025-05-09,12,Friday,Cold Coffee,Coffee,140,1,Card,Yes,4.0,140
+ORD100484,2025-05-10,11,Saturday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD101006,2025-05-10,18,Saturday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,5.0,130
+ORD100653,2025-05-11,10,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100161,2025-05-11,13,Sunday,Cheesecake Slice,Dessert,150,2,UPI,Yes,4.0,300
+ORD100089,2025-05-11,14,Sunday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100730,2025-05-11,17,Sunday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100685,2025-05-12,10,Monday,Cold Coffee,Coffee,140,3,UPI,Yes,4.0,420
+ORD100449,2025-05-12,12,Monday,Green Tea,Tea,60,2,Cash,Yes,5.0,120
+ORD100358,2025-05-12,13,Monday,Masala Chai,Tea,30,2,Card,No,5.0,60
+ORD101064,2025-05-12,15,Monday,Cold Coffee,Coffee,140,1,Cash,No,4.0,140
+ORD100085,2025-05-12,18,Monday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD100426,2025-05-13,10,Tuesday,Cappuccino,Coffee,120,2,Card,No,4.0,240
+ORD100040,2025-05-13,13,Tuesday,Masala Chai,Tea,30,1,UPI,No,5.0,30
+ORD100836,2025-05-13,17,Tuesday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100492,2025-05-13,19,Tuesday,Veg Sandwich,Food,110,1,UPI,No,5.0,110
+ORD100700,2025-05-14,12,Wednesday,Cappuccino,Coffee,120,2,UPI,Yes,4.0,240
+ORD100714,2025-05-14,12,Wednesday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100362,2025-05-14,17,Wednesday,Filter Coffee,Coffee,40,3,Card,No,2.0,120
+ORD100186,2025-05-15,7,Thursday,Cold Coffee,Coffee,140,2,UPI,No,4.0,280
+ORD100707,2025-05-15,11,Thursday,Samosa,Food,25,2,Cash,No,4.0,50
+ORD100610,2025-05-15,12,Thursday,Masala Chai,Tea,30,1,Card,No,5.0,30
+ORD100366,2025-05-15,14,Thursday,Samosa,Food,25,2,UPI,No,4.0,50
+ORD100853,2025-05-16,7,Friday,Cheesecake Slice,Dessert,150,1,UPI,No,4.0,150
+ORD100006,2025-05-16,10,Friday,Samosa,Food,25,1,UPI,Yes,2.0,25
+ORD100605,2025-05-16,13,Friday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD100014,2025-05-16,14,Friday,Masala Chai,Tea,30,2,Cash,Yes,4.0,60
+ORD101092,2025-05-16,18,Friday,Cappuccino,Coffee,120,3,Card,No,,360
+ORD100295,2025-05-16,19,Friday,Cheesecake Slice,Dessert,150,1,UPI,No,5.0,150
+ORD100253,2025-05-17,9,Saturday,Cappuccino,Coffee,120,1,Card,No,5.0,120
+ORD100279,2025-05-17,12,Saturday,Brownie,Dessert,90,2,UPI,Yes,4.0,180
+ORD100624,2025-05-17,17,Saturday,Mango Smoothie,Cold Drinks,130,3,Cash,Yes,5.0,390
+ORD100323,2025-05-18,16,Sunday,Masala Chai,Tea,30,2,Cash,No,5.0,60
+ORD100168,2025-05-19,9,Monday,Cold Coffee,Coffee,140,2,Cash,Yes,5.0,280
+ORD100519,2025-05-19,9,Monday,Brownie,Dessert,90,1,UPI,Yes,,90
+ORD100191,2025-05-19,11,Monday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100143,2025-05-19,12,Monday,Green Tea,Tea,60,1,UPI,Yes,,60
+ORD101130,2025-05-19,15,Monday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,,130
+ORD100827,2025-05-19,16,Monday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100662,2025-05-20,7,Tuesday,Cappuccino,Coffee,120,4,Cash,Yes,3.0,480
+ORD100474,2025-05-20,10,Tuesday,Cappuccino,Coffee,120,3,Cash,Yes,1.0,360
+ORD101023,2025-05-20,20,Tuesday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD100180,2025-05-21,9,Wednesday,Cheesecake Slice,Dessert,150,1,UPI,Yes,5.0,150
+ORD100004,2025-05-21,11,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100027,2025-05-21,17,Wednesday,Filter Coffee,Coffee,40,2,UPI,No,5.0,80
+ORD100434,2025-05-22,10,Thursday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100378,2025-05-22,13,Thursday,Cold Coffee,Coffee,140,3,Cash,Yes,5.0,420
+ORD100622,2025-05-22,14,Thursday,Mango Smoothie,Cold Drinks,130,1,Cash,Yes,3.0,130
+ORD100447,2025-05-22,18,Thursday,Green Tea,Tea,60,2,UPI,Yes,4.0,120
+ORD100173,2025-05-23,7,Friday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,5.0,130
+ORD100282,2025-05-23,15,Friday,Cappuccino,Coffee,120,1,UPI,No,,120
+ORD100451,2025-05-23,16,Friday,Brownie,Dessert,90,2,UPI,Yes,4.0,180
+ORD100199,2025-05-23,18,Friday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100658,2025-05-23,19,Friday,Green Tea,Tea,60,1,UPI,Yes,3.0,60
+ORD101004,2025-05-24,8,Saturday,Veg Sandwich,Food,110,3,UPI,Yes,,330
+ORD100928,2025-05-24,15,Saturday,Green Tea,Tea,60,2,UPI,Yes,4.0,120
+ORD100691,2025-05-24,17,Saturday,Cheesecake Slice,Dessert,150,2,Cash,Yes,,300
+ORD100221,2025-05-24,20,Saturday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD101059,2025-05-25,8,Sunday,Samosa,Food,25,1,UPI,No,2.0,25
+ORD100849,2025-05-25,10,Sunday,Mango Smoothie,Cold Drinks,130,4,Card,Yes,4.0,520
+ORD100979,2025-05-25,10,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100640,2025-05-25,13,Sunday,Samosa,Food,25,1,UPI,No,2.0,25
+ORD100399,2025-05-25,15,Sunday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD100917,2025-05-26,13,Monday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100145,2025-05-26,16,Monday,Cappuccino,Coffee,120,4,UPI,Yes,4.0,480
+ORD100765,2025-05-27,13,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD100911,2025-05-27,14,Tuesday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100123,2025-05-27,17,Tuesday,Masala Chai,Tea,30,3,UPI,No,4.0,90
+ORD100345,2025-05-28,11,Wednesday,Samosa,Food,25,3,UPI,No,5.0,75
+ORD100890,2025-05-28,12,Wednesday,Cold Coffee,Coffee,140,1,Card,Yes,4.0,140
+ORD100787,2025-05-28,14,Wednesday,Cold Coffee,Coffee,140,2,UPI,Yes,3.0,280
+ORD100873,2025-05-28,14,Wednesday,Cold Coffee,Coffee,140,1,Card,Yes,5.0,140
+ORD100914,2025-05-28,20,Wednesday,Mango Smoothie,Cold Drinks,130,1,Card,No,4.0,130
+ORD100514,2025-05-29,10,Thursday,Cold Coffee,Coffee,140,1,Cash,No,3.0,140
+ORD100741,2025-05-29,12,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD100108,2025-05-29,15,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD101084,2025-05-29,18,Thursday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,5.0,130
+ORD100163,2025-05-30,10,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD101146,2025-05-30,12,Friday,Samosa,Food,25,2,Card,Yes,3.0,50
+ORD100859,2025-05-30,14,Friday,Masala Chai,Tea,30,4,Card,No,4.0,120
+ORD101078,2025-05-30,14,Friday,Veg Sandwich,Food,110,1,UPI,No,5.0,110
+ORD100871,2025-05-31,11,Saturday,Filter Coffee,Coffee,40,1,Cash,No,4.0,40
+ORD101015,2025-05-31,13,Saturday,Filter Coffee,Coffee,40,1,UPI,Yes,2.0,40
+ORD100348,2025-06-01,12,Sunday,Green Tea,Tea,60,1,UPI,Yes,,60
+ORD100072,2025-06-01,13,Sunday,Brownie,Dessert,90,1,UPI,Yes,3.0,90
+ORD100884,2025-06-01,14,Sunday,Cappuccino,Coffee,120,2,Card,No,5.0,240
+ORD101060,2025-06-01,17,Sunday,Mango Smoothie,Cold Drinks,130,3,UPI,No,,390
+ORD101154,2025-06-01,22,Sunday,Masala Chai,Tea,30,3,Card,No,5.0,90
+ORD100019,2025-06-02,9,Monday,Veg Sandwich,Food,110,2,Cash,No,5.0,220
+ORD100094,2025-06-02,15,Monday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100297,2025-06-02,15,Monday,Samosa,Food,25,2,Cash,Yes,4.0,50
+ORD100808,2025-06-03,10,Tuesday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD101162,2025-06-03,18,Tuesday,Brownie,Dessert,90,1,UPI,No,,90
+ORD100561,2025-06-03,22,Tuesday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100075,2025-06-04,10,Wednesday,Cappuccino,Coffee,120,4,UPI,Yes,4.0,480
+ORD101166,2025-06-04,11,Wednesday,Brownie,Dessert,90,2,UPI,No,4.0,180
+ORD100670,2025-06-04,12,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100968,2025-06-04,13,Wednesday,Masala Chai,Tea,30,1,Cash,Yes,,30
+ORD100524,2025-06-04,14,Wednesday,Filter Coffee,Coffee,40,3,UPI,No,5.0,120
+ORD100293,2025-06-05,17,Thursday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD100607,2025-06-05,22,Thursday,Filter Coffee,Coffee,40,2,Cash,Yes,3.0,80
+ORD100589,2025-06-06,13,Friday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100359,2025-06-06,14,Friday,Green Tea,Tea,60,1,Cash,Yes,4.0,60
+ORD100817,2025-06-06,14,Friday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD100165,2025-06-07,7,Saturday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100819,2025-06-07,11,Saturday,Cappuccino,Coffee,120,4,UPI,Yes,2.0,480
+ORD100772,2025-06-07,12,Saturday,Green Tea,Tea,60,2,UPI,Yes,4.0,120
+ORD100361,2025-06-07,15,Saturday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100598,2025-06-08,7,Sunday,Mango Smoothie,Cold Drinks,130,3,Cash,No,3.0,390
+ORD100260,2025-06-08,11,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100316,2025-06-08,13,Sunday,Cold Coffee,Coffee,140,2,UPI,Yes,4.0,280
+ORD100924,2025-06-08,13,Sunday,Filter Coffee,Coffee,40,1,UPI,No,1.0,40
+ORD100533,2025-06-08,16,Sunday,Veg Sandwich,Food,110,2,UPI,No,3.0,220
+ORD100860,2025-06-08,18,Sunday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100440,2025-06-09,14,Monday,Brownie,Dessert,90,2,UPI,Yes,,180
+ORD100515,2025-06-09,17,Monday,Filter Coffee,Coffee,40,3,UPI,No,4.0,120
+ORD100553,2025-06-09,17,Monday,Cheesecake Slice,Dessert,150,2,UPI,Yes,,300
+ORD100703,2025-06-10,9,Tuesday,Brownie,Dessert,90,2,Cash,Yes,4.0,180
+ORD100724,2025-06-10,10,Tuesday,Filter Coffee,Coffee,40,1,Cash,No,3.0,40
+ORD101150,2025-06-10,14,Tuesday,Filter Coffee,Coffee,40,2,Cash,Yes,4.0,80
+ORD100680,2025-06-10,15,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD100164,2025-06-10,18,Tuesday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD101088,2025-06-11,10,Wednesday,Masala Chai,Tea,30,1,Cash,No,4.0,30
+ORD100955,2025-06-11,14,Wednesday,Brownie,Dessert,90,1,Cash,No,4.0,90
+ORD100120,2025-06-11,21,Wednesday,Green Tea,Tea,60,2,Card,Yes,3.0,120
+ORD100459,2025-06-12,14,Thursday,Veg Sandwich,Food,110,2,Card,Yes,5.0,220
+ORD100401,2025-06-12,17,Thursday,Cheesecake Slice,Dessert,150,1,Card,No,5.0,150
+ORD100679,2025-06-13,10,Friday,Cold Coffee,Coffee,140,1,Cash,Yes,5.0,140
+ORD101155,2025-06-13,14,Friday,Filter Coffee,Coffee,40,2,UPI,No,5.0,80
+ORD100334,2025-06-13,17,Friday,Filter Coffee,Coffee,40,2,Cash,Yes,,80
+ORD100177,2025-06-14,9,Saturday,Mango Smoothie,Cold Drinks,130,3,UPI,No,4.0,390
+ORD100034,2025-06-14,14,Saturday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD101099,2025-06-14,14,Saturday,Filter Coffee,Coffee,40,4,UPI,Yes,,160
+ORD100742,2025-06-14,19,Saturday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD101052,2025-06-15,8,Sunday,Cappuccino,Coffee,120,2,Cash,Yes,,240
+ORD100244,2025-06-15,11,Sunday,Green Tea,Tea,60,1,UPI,No,5.0,60
+ORD101186,2025-06-15,13,Sunday,Cold Coffee,Coffee,140,1,Cash,Yes,5.0,140
+ORD100996,2025-06-15,14,Sunday,Veg Sandwich,Food,110,1,UPI,Yes,5.0,110
+ORD100590,2025-06-16,11,Monday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,2.0,260
+ORD101042,2025-06-16,11,Monday,Veg Sandwich,Food,110,2,Card,No,4.0,220
+ORD100444,2025-06-16,13,Monday,Cappuccino,Coffee,120,4,UPI,Yes,5.0,480
+ORD100445,2025-06-16,14,Monday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100615,2025-06-17,14,Tuesday,Samosa,Food,25,1,Card,Yes,5.0,25
+ORD100106,2025-06-17,18,Tuesday,Masala Chai,Tea,30,3,Card,No,5.0,90
+ORD100181,2025-06-18,11,Wednesday,Cheesecake Slice,Dessert,150,1,Card,Yes,5.0,150
+ORD100329,2025-06-18,14,Wednesday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100731,2025-06-18,20,Wednesday,Filter Coffee,Coffee,40,1,Card,Yes,5.0,40
+ORD100315,2025-06-19,7,Thursday,Cold Coffee,Coffee,140,1,UPI,No,5.0,140
+ORD100008,2025-06-19,13,Thursday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100891,2025-06-19,15,Thursday,Mango Smoothie,Cold Drinks,130,1,Cash,Yes,,130
+ORD100064,2025-06-19,17,Thursday,Veg Sandwich,Food,110,3,Cash,No,4.0,330
+ORD100885,2025-06-20,10,Friday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100243,2025-06-20,12,Friday,Masala Chai,Tea,30,4,Card,No,5.0,120
+ORD100689,2025-06-20,12,Friday,Masala Chai,Tea,30,3,UPI,Yes,4.0,90
+ORD100126,2025-06-20,14,Friday,Cold Coffee,Coffee,140,2,UPI,Yes,4.0,280
+ORD101159,2025-06-20,20,Friday,Samosa,Food,25,3,UPI,Yes,4.0,75
+ORD100053,2025-06-21,7,Saturday,Veg Sandwich,Food,110,2,UPI,Yes,2.0,220
+ORD100148,2025-06-21,9,Saturday,Masala Chai,Tea,30,4,UPI,No,,120
+ORD100575,2025-06-21,15,Saturday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100738,2025-06-21,22,Saturday,Cold Coffee,Coffee,140,1,UPI,Yes,,140
+ORD101009,2025-06-22,7,Sunday,Masala Chai,Tea,30,1,Cash,Yes,3.0,30
+ORD100512,2025-06-22,12,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100722,2025-06-22,13,Sunday,Filter Coffee,Coffee,40,3,Cash,Yes,4.0,120
+ORD101050,2025-06-23,7,Monday,Veg Sandwich,Food,110,1,Cash,Yes,5.0,110
+ORD101097,2025-06-23,11,Monday,Samosa,Food,25,3,Card,Yes,2.0,75
+ORD100058,2025-06-23,12,Monday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100062,2025-06-23,13,Monday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100055,2025-06-23,15,Monday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100579,2025-06-23,22,Monday,Cold Coffee,Coffee,140,3,Card,Yes,5.0,420
+ORD100655,2025-06-24,7,Tuesday,Cold Coffee,Coffee,140,2,UPI,Yes,5.0,280
+ORD100861,2025-06-24,11,Tuesday,Samosa,Food,25,4,Cash,Yes,4.0,100
+ORD100559,2025-06-24,13,Tuesday,Masala Chai,Tea,30,3,Card,No,2.0,90
+ORD100368,2025-06-24,15,Tuesday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100737,2025-06-24,18,Tuesday,Cold Coffee,Coffee,140,1,UPI,Yes,,140
+ORD100671,2025-06-25,14,Wednesday,Green Tea,Tea,60,1,UPI,Yes,5.0,60
+ORD101026,2025-06-25,18,Wednesday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,4.0,260
+ORD100285,2025-06-25,22,Wednesday,Masala Chai,Tea,30,3,UPI,No,5.0,90
+ORD100443,2025-06-26,12,Thursday,Cappuccino,Coffee,120,1,Card,Yes,4.0,120
+ORD100015,2025-06-27,9,Friday,Cappuccino,Coffee,120,1,Cash,Yes,2.0,120
+ORD100557,2025-06-27,16,Friday,Masala Chai,Tea,30,1,Card,No,5.0,30
+ORD100614,2025-06-28,13,Saturday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100740,2025-06-29,7,Sunday,Filter Coffee,Coffee,40,2,UPI,No,3.0,80
+ORD100338,2025-06-29,17,Sunday,Filter Coffee,Coffee,40,2,Card,No,4.0,80
+ORD100139,2025-06-30,8,Monday,Filter Coffee,Coffee,40,2,Cash,No,4.0,80
+ORD100576,2025-06-30,14,Monday,Cheesecake Slice,Dessert,150,1,UPI,Yes,4.0,150
+ORD100739,2025-06-30,14,Monday,Masala Chai,Tea,30,1,UPI,No,3.0,30
+ORD101049,2025-06-30,21,Monday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100241,2025-07-01,12,Tuesday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD100263,2025-07-01,14,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100547,2025-07-01,15,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100715,2025-07-01,15,Tuesday,Cappuccino,Coffee,120,1,Card,Yes,5.0,120
+ORD100196,2025-07-02,11,Wednesday,Green Tea,Tea,60,2,UPI,Yes,,120
+ORD100137,2025-07-02,13,Wednesday,Masala Chai,Tea,30,1,Cash,Yes,,30
+ORD100973,2025-07-03,9,Thursday,Cheesecake Slice,Dessert,150,1,Cash,Yes,4.0,150
+ORD100314,2025-07-04,8,Friday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100611,2025-07-04,10,Friday,Veg Sandwich,Food,110,2,UPI,No,4.0,220
+ORD100976,2025-07-04,12,Friday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100728,2025-07-04,14,Friday,Masala Chai,Tea,30,2,Card,Yes,5.0,60
+ORD100284,2025-07-04,17,Friday,Green Tea,Tea,60,1,UPI,Yes,4.0,60
+ORD100975,2025-07-04,21,Friday,Green Tea,Tea,60,2,UPI,Yes,,120
+ORD100500,2025-07-05,15,Saturday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100551,2025-07-05,19,Saturday,Filter Coffee,Coffee,40,2,UPI,No,3.0,80
+ORD100342,2025-07-06,20,Sunday,Samosa,Food,25,2,UPI,Yes,3.0,50
+ORD100410,2025-07-07,7,Monday,Veg Sandwich,Food,110,2,UPI,Yes,5.0,220
+ORD100910,2025-07-07,13,Monday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100558,2025-07-07,15,Monday,Green Tea,Tea,60,2,UPI,Yes,4.0,120
+ORD100475,2025-07-08,9,Tuesday,Cold Coffee,Coffee,140,1,Card,No,4.0,140
+ORD101020,2025-07-08,12,Tuesday,Cheesecake Slice,Dessert,150,1,Cash,Yes,4.0,150
+ORD100843,2025-07-09,12,Wednesday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD100313,2025-07-09,13,Wednesday,Cold Coffee,Coffee,140,1,UPI,No,2.0,140
+ORD100549,2025-07-09,22,Wednesday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD101151,2025-07-10,9,Thursday,Brownie,Dessert,90,2,UPI,Yes,3.0,180
+ORD100331,2025-07-10,11,Thursday,Cappuccino,Coffee,120,2,Cash,Yes,4.0,240
+ORD100936,2025-07-10,13,Thursday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,4.0,130
+ORD100991,2025-07-10,13,Thursday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD100031,2025-07-10,15,Thursday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,5.0,260
+ORD100376,2025-07-10,15,Thursday,Mango Smoothie,Cold Drinks,130,3,Card,Yes,,390
+ORD100076,2025-07-10,16,Thursday,Cappuccino,Coffee,120,1,Cash,Yes,5.0,120
+ORD100088,2025-07-11,7,Friday,Filter Coffee,Coffee,40,2,Card,Yes,5.0,80
+ORD101068,2025-07-11,14,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD101138,2025-07-12,9,Saturday,Filter Coffee,Coffee,40,1,Card,No,4.0,40
+ORD100117,2025-07-12,10,Saturday,Samosa,Food,25,4,UPI,Yes,2.0,100
+ORD100864,2025-07-12,11,Saturday,Filter Coffee,Coffee,40,1,UPI,No,2.0,40
+ORD100959,2025-07-12,14,Saturday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100208,2025-07-12,16,Saturday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100138,2025-07-13,12,Sunday,Samosa,Food,25,2,Card,Yes,5.0,50
+ORD100548,2025-07-13,12,Sunday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD100643,2025-07-13,12,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD101077,2025-07-13,16,Sunday,Masala Chai,Tea,30,2,Cash,Yes,5.0,60
+ORD100010,2025-07-13,17,Sunday,Cold Coffee,Coffee,140,2,UPI,Yes,4.0,280
+ORD100206,2025-07-14,13,Monday,Filter Coffee,Coffee,40,1,Card,Yes,5.0,40
+ORD101095,2025-07-14,19,Monday,Masala Chai,Tea,30,4,UPI,No,3.0,120
+ORD100616,2025-07-14,20,Monday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD100192,2025-07-14,22,Monday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100365,2025-07-15,11,Tuesday,Masala Chai,Tea,30,1,UPI,No,3.0,30
+ORD100393,2025-07-15,14,Tuesday,Veg Sandwich,Food,110,1,UPI,Yes,2.0,110
+ORD100265,2025-07-15,15,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100944,2025-07-16,10,Wednesday,Masala Chai,Tea,30,1,UPI,No,,30
+ORD101066,2025-07-16,10,Wednesday,Cold Coffee,Coffee,140,2,UPI,No,4.0,280
+ORD100898,2025-07-16,12,Wednesday,Cappuccino,Coffee,120,3,UPI,Yes,3.0,360
+ORD100495,2025-07-16,17,Wednesday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100710,2025-07-16,19,Wednesday,Mango Smoothie,Cold Drinks,130,4,UPI,Yes,,520
+ORD100940,2025-07-17,15,Thursday,Cappuccino,Coffee,120,1,Cash,Yes,,120
+ORD100420,2025-07-17,16,Thursday,Veg Sandwich,Food,110,1,Card,No,,110
+ORD100523,2025-07-17,19,Thursday,Green Tea,Tea,60,1,Card,Yes,5.0,60
+ORD100435,2025-07-18,10,Friday,Cappuccino,Coffee,120,1,Cash,Yes,3.0,120
+ORD100374,2025-07-18,22,Friday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD101076,2025-07-19,10,Saturday,Masala Chai,Tea,30,2,Cash,Yes,5.0,60
+ORD100433,2025-07-19,17,Saturday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100665,2025-07-20,20,Sunday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD100003,2025-07-21,9,Monday,Veg Sandwich,Food,110,2,UPI,No,3.0,220
+ORD100745,2025-07-21,18,Monday,Masala Chai,Tea,30,3,Cash,No,4.0,90
+ORD101197,2025-07-22,7,Tuesday,Veg Sandwich,Food,110,1,Cash,Yes,4.0,110
+ORD100185,2025-07-22,9,Tuesday,Veg Sandwich,Food,110,1,UPI,Yes,3.0,110
+ORD100775,2025-07-23,15,Wednesday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100025,2025-07-24,7,Thursday,Cappuccino,Coffee,120,3,UPI,Yes,5.0,360
+ORD100858,2025-07-25,11,Friday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD101047,2025-07-25,11,Friday,Samosa,Food,25,1,Card,No,,25
+ORD100482,2025-07-25,13,Friday,Green Tea,Tea,60,2,UPI,Yes,5.0,120
+ORD100632,2025-07-25,14,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,,40
+ORD100035,2025-07-25,15,Friday,Cappuccino,Coffee,120,2,Card,No,4.0,240
+ORD100203,2025-07-25,15,Friday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD100233,2025-07-25,16,Friday,Green Tea,Tea,60,2,UPI,Yes,3.0,120
+ORD100814,2025-07-25,17,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,,40
+ORD100287,2025-07-26,8,Saturday,Cold Coffee,Coffee,140,1,Card,No,5.0,140
+ORD100001,2025-07-26,10,Saturday,Masala Chai,Tea,30,1,Cash,No,5.0,30
+ORD100255,2025-07-26,17,Saturday,Samosa,Food,25,2,UPI,No,2.0,50
+ORD101193,2025-07-27,9,Sunday,Mango Smoothie,Cold Drinks,130,4,UPI,Yes,,520
+ORD100179,2025-07-27,14,Sunday,Samosa,Food,25,3,UPI,Yes,,75
+ORD100491,2025-07-27,14,Sunday,Veg Sandwich,Food,110,2,UPI,No,4.0,220
+ORD100246,2025-07-27,15,Sunday,Green Tea,Tea,60,2,UPI,No,5.0,120
+ORD100397,2025-07-27,15,Sunday,Cappuccino,Coffee,120,2,Cash,No,4.0,240
+ORD100743,2025-07-27,16,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100456,2025-07-27,21,Sunday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,,260
+ORD100835,2025-07-28,16,Monday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD100834,2025-07-28,22,Monday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100336,2025-07-29,17,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100129,2025-07-30,10,Wednesday,Green Tea,Tea,60,1,Card,No,4.0,60
+ORD100160,2025-07-30,18,Wednesday,Filter Coffee,Coffee,40,1,Card,No,4.0,40
+ORD100318,2025-07-31,9,Thursday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100736,2025-07-31,11,Thursday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD101141,2025-07-31,11,Thursday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100225,2025-07-31,14,Thursday,Mango Smoothie,Cold Drinks,130,4,Card,No,,520
+ORD101111,2025-07-31,14,Thursday,Masala Chai,Tea,30,1,Cash,Yes,5.0,30
+ORD100826,2025-07-31,15,Thursday,Green Tea,Tea,60,1,UPI,Yes,4.0,60
+ORD100278,2025-07-31,17,Thursday,Brownie,Dessert,90,4,UPI,No,4.0,360
+ORD100977,2025-08-01,14,Friday,Masala Chai,Tea,30,3,UPI,Yes,4.0,90
+ORD100352,2025-08-01,15,Friday,Masala Chai,Tea,30,3,UPI,Yes,3.0,90
+ORD100328,2025-08-01,17,Friday,Veg Sandwich,Food,110,1,Cash,No,5.0,110
+ORD100674,2025-08-01,18,Friday,Green Tea,Tea,60,1,Cash,Yes,5.0,60
+ORD100063,2025-08-02,7,Saturday,Samosa,Food,25,1,Card,Yes,5.0,25
+ORD100147,2025-08-02,16,Saturday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD100546,2025-08-03,12,Sunday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100159,2025-08-04,12,Monday,Samosa,Food,25,1,Card,No,5.0,25
+ORD100275,2025-08-05,17,Tuesday,Cold Coffee,Coffee,140,3,UPI,No,4.0,420
+ORD100565,2025-08-05,19,Tuesday,Veg Sandwich,Food,110,2,UPI,Yes,5.0,220
+ORD100618,2025-08-07,7,Thursday,Filter Coffee,Coffee,40,1,UPI,No,,40
+ORD100213,2025-08-07,13,Thursday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100044,2025-08-07,16,Thursday,Brownie,Dessert,90,1,Cash,Yes,,90
+ORD100606,2025-08-07,16,Thursday,Brownie,Dessert,90,4,UPI,Yes,4.0,360
+ORD101014,2025-08-07,16,Thursday,Cold Coffee,Coffee,140,2,UPI,Yes,4.0,280
+ORD100572,2025-08-07,18,Thursday,Masala Chai,Tea,30,3,UPI,No,,90
+ORD101022,2025-08-08,10,Friday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,4.0,130
+ORD100013,2025-08-08,12,Friday,Brownie,Dessert,90,1,UPI,No,5.0,90
+ORD100902,2025-08-08,16,Friday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD100946,2025-08-08,19,Friday,Samosa,Food,25,1,Cash,Yes,,25
+ORD101048,2025-08-09,14,Saturday,Brownie,Dessert,90,1,Card,Yes,4.0,90
+ORD101035,2025-08-10,11,Sunday,Veg Sandwich,Food,110,4,Cash,Yes,4.0,440
+ORD100291,2025-08-10,14,Sunday,Filter Coffee,Coffee,40,2,UPI,No,4.0,80
+ORD100769,2025-08-10,14,Sunday,Veg Sandwich,Food,110,2,UPI,Yes,,220
+ORD100093,2025-08-11,11,Monday,Cold Coffee,Coffee,140,1,Card,Yes,5.0,140
+ORD101024,2025-08-11,11,Monday,Veg Sandwich,Food,110,2,Card,No,5.0,220
+ORD100824,2025-08-11,18,Monday,Brownie,Dessert,90,1,Card,Yes,4.0,90
+ORD100463,2025-08-12,14,Tuesday,Cold Coffee,Coffee,140,1,Card,No,3.0,140
+ORD100570,2025-08-12,20,Tuesday,Cold Coffee,Coffee,140,4,UPI,Yes,,560
+ORD100723,2025-08-12,21,Tuesday,Mango Smoothie,Cold Drinks,130,1,Cash,No,4.0,130
+ORD100930,2025-08-13,13,Wednesday,Cappuccino,Coffee,120,2,UPI,Yes,,240
+ORD101016,2025-08-13,13,Wednesday,Veg Sandwich,Food,110,2,UPI,No,,220
+ORD100776,2025-08-13,15,Wednesday,Green Tea,Tea,60,1,Cash,Yes,4.0,60
+ORD100503,2025-08-14,7,Thursday,Masala Chai,Tea,30,3,Cash,No,,90
+ORD100325,2025-08-14,9,Thursday,Veg Sandwich,Food,110,1,UPI,Yes,5.0,110
+ORD100228,2025-08-14,13,Thursday,Veg Sandwich,Food,110,1,Cash,Yes,4.0,110
+ORD100424,2025-08-14,15,Thursday,Green Tea,Tea,60,2,UPI,No,4.0,120
+ORD100526,2025-08-14,15,Thursday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,5.0,260
+ORD100943,2025-08-14,17,Thursday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100107,2025-08-15,15,Friday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100966,2025-08-15,15,Friday,Mango Smoothie,Cold Drinks,130,1,Cash,Yes,,130
+ORD101199,2025-08-15,16,Friday,Samosa,Food,25,1,Card,Yes,,25
+ORD100516,2025-08-15,18,Friday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100016,2025-08-15,21,Friday,Masala Chai,Tea,30,3,Card,No,,90
+ORD100720,2025-08-16,15,Saturday,Masala Chai,Tea,30,2,Card,No,5.0,60
+ORD100625,2025-08-17,8,Sunday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100506,2025-08-17,13,Sunday,Cold Coffee,Coffee,140,1,Card,Yes,5.0,140
+ORD100320,2025-08-17,14,Sunday,Cheesecake Slice,Dessert,150,2,UPI,Yes,5.0,300
+ORD100428,2025-08-17,14,Sunday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100497,2025-08-17,18,Sunday,Veg Sandwich,Food,110,1,UPI,No,,110
+ORD100770,2025-08-18,13,Monday,Cappuccino,Coffee,120,2,UPI,Yes,,240
+ORD100716,2025-08-18,16,Monday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100784,2025-08-18,16,Monday,Mango Smoothie,Cold Drinks,130,2,UPI,No,3.0,260
+ORD100608,2025-08-18,20,Monday,Samosa,Food,25,1,Cash,Yes,4.0,25
+ORD100595,2025-08-19,14,Tuesday,Cappuccino,Coffee,120,2,Cash,No,3.0,240
+ORD100916,2025-08-19,16,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD101145,2025-08-19,18,Tuesday,Cold Coffee,Coffee,140,4,UPI,No,2.0,560
+ORD100167,2025-08-20,14,Wednesday,Samosa,Food,25,2,UPI,Yes,5.0,50
+ORD100357,2025-08-20,16,Wednesday,Samosa,Food,25,3,Card,Yes,4.0,75
+ORD101091,2025-08-20,17,Wednesday,Veg Sandwich,Food,110,2,UPI,No,5.0,220
+ORD100569,2025-08-21,7,Thursday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100288,2025-08-21,10,Thursday,Masala Chai,Tea,30,2,UPI,No,5.0,60
+ORD100900,2025-08-21,10,Thursday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD101007,2025-08-21,12,Thursday,Cold Coffee,Coffee,140,2,UPI,Yes,,280
+ORD100591,2025-08-21,20,Thursday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100036,2025-08-22,13,Friday,Filter Coffee,Coffee,40,1,Card,Yes,,40
+ORD101101,2025-08-22,13,Friday,Cold Coffee,Coffee,140,1,Cash,Yes,3.0,140
+ORD100923,2025-08-22,19,Friday,Masala Chai,Tea,30,3,Card,Yes,3.0,90
+ORD101149,2025-08-22,19,Friday,Cheesecake Slice,Dessert,150,2,Cash,Yes,5.0,300
+ORD100717,2025-08-23,10,Saturday,Filter Coffee,Coffee,40,3,UPI,Yes,,120
+ORD100746,2025-08-23,16,Saturday,Cold Coffee,Coffee,140,4,UPI,Yes,,560
+ORD100865,2025-08-23,20,Saturday,Cheesecake Slice,Dessert,150,1,UPI,No,,150
+ORD100047,2025-08-24,14,Sunday,Cappuccino,Coffee,120,2,Card,No,4.0,240
+ORD101176,2025-08-24,18,Sunday,Masala Chai,Tea,30,2,UPI,Yes,,60
+ORD100585,2025-08-25,7,Monday,Veg Sandwich,Food,110,2,UPI,No,4.0,220
+ORD100504,2025-08-26,11,Tuesday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100080,2025-08-26,13,Tuesday,Veg Sandwich,Food,110,2,UPI,Yes,4.0,220
+ORD101188,2025-08-26,15,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100353,2025-08-26,16,Tuesday,Green Tea,Tea,60,1,UPI,No,5.0,60
+ORD100872,2025-08-27,14,Wednesday,Mango Smoothie,Cold Drinks,130,1,Cash,Yes,4.0,130
+ORD100150,2025-08-27,15,Wednesday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100529,2025-08-27,17,Wednesday,Cold Coffee,Coffee,140,1,Card,Yes,,140
+ORD100218,2025-08-28,17,Thursday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,4.0,130
+ORD100496,2025-08-29,7,Friday,Masala Chai,Tea,30,3,UPI,Yes,1.0,90
+ORD100183,2025-08-29,9,Friday,Cold Coffee,Coffee,140,1,Card,Yes,4.0,140
+ORD101008,2025-08-29,11,Friday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD101037,2025-08-29,18,Friday,Masala Chai,Tea,30,1,UPI,No,5.0,30
+ORD100370,2025-08-30,12,Saturday,Samosa,Food,25,3,Card,Yes,,75
+ORD100599,2025-08-30,15,Saturday,Veg Sandwich,Food,110,2,UPI,No,5.0,220
+ORD100476,2025-08-31,20,Sunday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD100321,2025-09-01,7,Monday,Masala Chai,Tea,30,2,Card,Yes,5.0,60
+ORD100162,2025-09-01,8,Monday,Cappuccino,Coffee,120,3,UPI,Yes,5.0,360
+ORD100758,2025-09-01,12,Monday,Filter Coffee,Coffee,40,1,UPI,No,2.0,40
+ORD100215,2025-09-02,14,Tuesday,Samosa,Food,25,3,UPI,Yes,5.0,75
+ORD100792,2025-09-02,16,Tuesday,Cold Coffee,Coffee,140,1,UPI,No,,140
+ORD100416,2025-09-03,9,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD100974,2025-09-03,9,Wednesday,Cold Coffee,Coffee,140,1,UPI,No,5.0,140
+ORD100258,2025-09-03,15,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100531,2025-09-03,18,Wednesday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100601,2025-09-03,19,Wednesday,Samosa,Food,25,3,UPI,Yes,2.0,75
+ORD100037,2025-09-04,7,Thursday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD100832,2025-09-04,16,Thursday,Cold Coffee,Coffee,140,1,UPI,Yes,,140
+ORD101118,2025-09-05,7,Friday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100989,2025-09-05,18,Friday,Samosa,Food,25,2,UPI,Yes,4.0,50
+ORD100805,2025-09-05,19,Friday,Filter Coffee,Coffee,40,1,UPI,No,,40
+ORD100791,2025-09-06,7,Saturday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD100067,2025-09-06,10,Saturday,Cold Coffee,Coffee,140,3,UPI,Yes,,420
+ORD100231,2025-09-06,11,Saturday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD101175,2025-09-08,19,Monday,Samosa,Food,25,1,Cash,Yes,3.0,25
+ORD100867,2025-09-09,12,Tuesday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD101172,2025-09-09,13,Tuesday,Cappuccino,Coffee,120,3,UPI,Yes,,360
+ORD101187,2025-09-09,13,Tuesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,5.0,130
+ORD100317,2025-09-09,14,Tuesday,Veg Sandwich,Food,110,1,Card,No,5.0,110
+ORD100116,2025-09-10,9,Wednesday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD100704,2025-09-13,9,Saturday,Cappuccino,Coffee,120,2,UPI,Yes,4.0,240
+ORD100820,2025-09-13,10,Saturday,Filter Coffee,Coffee,40,1,Card,Yes,5.0,40
+ORD100100,2025-09-13,18,Saturday,Cheesecake Slice,Dessert,150,1,UPI,No,4.0,150
+ORD101156,2025-09-15,7,Monday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD100604,2025-09-15,10,Monday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,,130
+ORD100441,2025-09-15,13,Monday,Filter Coffee,Coffee,40,2,Card,No,5.0,80
+ORD100373,2025-09-15,14,Monday,Cold Coffee,Coffee,140,2,UPI,No,,280
+ORD100667,2025-09-15,14,Monday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,,130
+ORD100306,2025-09-15,16,Monday,Cold Coffee,Coffee,140,1,UPI,No,5.0,140
+ORD100664,2025-09-16,13,Tuesday,Cold Coffee,Coffee,140,1,Card,No,3.0,140
+ORD100649,2025-09-16,15,Tuesday,Filter Coffee,Coffee,40,2,UPI,No,5.0,80
+ORD100398,2025-09-16,16,Tuesday,Masala Chai,Tea,30,1,Card,Yes,4.0,30
+ORD100419,2025-09-16,16,Tuesday,Cheesecake Slice,Dessert,150,3,UPI,Yes,,450
+ORD100007,2025-09-17,10,Wednesday,Samosa,Food,25,1,Cash,No,,25
+ORD100734,2025-09-17,11,Wednesday,Filter Coffee,Coffee,40,1,Cash,No,5.0,40
+ORD101089,2025-09-17,12,Wednesday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD101045,2025-09-17,17,Wednesday,Cold Coffee,Coffee,140,1,Card,Yes,,140
+ORD101153,2025-09-18,12,Thursday,Filter Coffee,Coffee,40,2,UPI,No,3.0,80
+ORD100750,2025-09-18,15,Thursday,Cappuccino,Coffee,120,1,UPI,No,3.0,120
+ORD100540,2025-09-19,11,Friday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,4.0,260
+ORD100580,2025-09-19,17,Friday,Masala Chai,Tea,30,1,Cash,Yes,4.0,30
+ORD100584,2025-09-20,13,Saturday,Cheesecake Slice,Dessert,150,1,UPI,No,5.0,150
+ORD100568,2025-09-20,16,Saturday,Cold Coffee,Coffee,140,1,Card,No,4.0,140
+ORD100692,2025-09-20,17,Saturday,Cappuccino,Coffee,120,2,Cash,Yes,,240
+ORD100197,2025-09-21,15,Sunday,Brownie,Dessert,90,2,Cash,Yes,4.0,180
+ORD100392,2025-09-21,15,Sunday,Green Tea,Tea,60,2,UPI,Yes,2.0,120
+ORD100999,2025-09-21,17,Sunday,Cappuccino,Coffee,120,2,UPI,Yes,4.0,240
+ORD100537,2025-09-21,19,Sunday,Filter Coffee,Coffee,40,3,Card,Yes,5.0,120
+ORD100458,2025-09-22,14,Monday,Samosa,Food,25,2,Cash,No,3.0,50
+ORD100454,2025-09-22,18,Monday,Filter Coffee,Coffee,40,2,Card,Yes,,80
+ORD100646,2025-09-23,11,Tuesday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100953,2025-09-23,14,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,1.0,40
+ORD100308,2025-09-24,13,Wednesday,Cappuccino,Coffee,120,1,UPI,No,5.0,120
+ORD100879,2025-09-24,13,Wednesday,Green Tea,Tea,60,1,Card,No,5.0,60
+ORD100290,2025-09-24,16,Wednesday,Brownie,Dessert,90,1,UPI,Yes,,90
+ORD100172,2025-09-24,17,Wednesday,Cappuccino,Coffee,120,1,Cash,Yes,3.0,120
+ORD100844,2025-09-24,20,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100630,2025-09-25,17,Thursday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,2.0,130
+ORD100564,2025-09-25,19,Thursday,Veg Sandwich,Food,110,1,Cash,Yes,5.0,110
+ORD100613,2025-09-26,10,Friday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,4.0,260
+ORD101140,2025-09-26,14,Friday,Cold Coffee,Coffee,140,1,Card,No,1.0,140
+ORD100987,2025-09-26,18,Friday,Filter Coffee,Coffee,40,3,Card,Yes,5.0,120
+ORD101072,2025-09-26,22,Friday,Masala Chai,Tea,30,2,UPI,Yes,,60
+ORD100866,2025-09-27,15,Saturday,Brownie,Dessert,90,2,Cash,No,,180
+ORD100828,2025-09-27,18,Saturday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100794,2025-09-28,14,Sunday,Filter Coffee,Coffee,40,3,UPI,Yes,3.0,120
+ORD100862,2025-09-28,21,Sunday,Samosa,Food,25,3,UPI,No,1.0,75
+ORD101093,2025-09-29,13,Monday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100237,2025-09-29,14,Monday,Samosa,Food,25,1,UPI,Yes,3.0,25
+ORD100619,2025-09-29,16,Monday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100961,2025-09-29,18,Monday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD101071,2025-09-30,7,Tuesday,Green Tea,Tea,60,2,Card,Yes,4.0,120
+ORD100586,2025-09-30,13,Tuesday,Filter Coffee,Coffee,40,1,Cash,No,5.0,40
+ORD100002,2025-09-30,14,Tuesday,Brownie,Dessert,90,3,UPI,No,5.0,270
+ORD100627,2025-09-30,17,Tuesday,Filter Coffee,Coffee,40,1,Card,No,,40
+ORD100782,2025-09-30,17,Tuesday,Masala Chai,Tea,30,2,Cash,Yes,5.0,60
+ORD100851,2025-09-30,17,Tuesday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100766,2025-10-01,7,Wednesday,Cappuccino,Coffee,120,1,Card,Yes,1.0,120
+ORD100965,2025-10-01,7,Wednesday,Masala Chai,Tea,30,4,Cash,Yes,4.0,120
+ORD100675,2025-10-01,10,Wednesday,Cold Coffee,Coffee,140,3,UPI,Yes,4.0,420
+ORD101056,2025-10-01,12,Wednesday,Cheesecake Slice,Dessert,150,1,UPI,Yes,5.0,150
+ORD101065,2025-10-01,17,Wednesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,2.0,130
+ORD100102,2025-10-02,8,Thursday,Cappuccino,Coffee,120,1,Cash,Yes,4.0,120
+ORD100652,2025-10-02,12,Thursday,Veg Sandwich,Food,110,2,Cash,Yes,5.0,220
+ORD100695,2025-10-02,16,Thursday,Masala Chai,Tea,30,2,UPI,Yes,2.0,60
+ORD101184,2025-10-02,19,Thursday,Filter Coffee,Coffee,40,1,Card,Yes,2.0,40
+ORD100205,2025-10-03,13,Friday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100113,2025-10-03,17,Friday,Green Tea,Tea,60,2,UPI,Yes,5.0,120
+ORD100881,2025-10-03,17,Friday,Green Tea,Tea,60,2,UPI,No,,120
+ORD101168,2025-10-03,18,Friday,Samosa,Food,25,3,UPI,No,4.0,75
+ORD100028,2025-10-03,19,Friday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD100021,2025-10-04,10,Saturday,Cold Coffee,Coffee,140,1,Card,No,3.0,140
+ORD100204,2025-10-04,11,Saturday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100647,2025-10-05,11,Sunday,Masala Chai,Tea,30,1,Cash,Yes,2.0,30
+ORD100732,2025-10-05,14,Sunday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD100945,2025-10-05,17,Sunday,Cappuccino,Coffee,120,4,Cash,No,5.0,480
+ORD100442,2025-10-06,11,Monday,Samosa,Food,25,1,UPI,No,,25
+ORD100542,2025-10-06,13,Monday,Brownie,Dessert,90,1,UPI,Yes,3.0,90
+ORD100744,2025-10-06,15,Monday,Masala Chai,Tea,30,2,Cash,No,,60
+ORD100711,2025-10-06,17,Monday,Veg Sandwich,Food,110,1,UPI,No,5.0,110
+ORD100382,2025-10-06,19,Monday,Samosa,Food,25,1,UPI,No,2.0,25
+ORD101181,2025-10-07,12,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100786,2025-10-07,17,Tuesday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD100536,2025-10-08,12,Wednesday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100846,2025-10-08,15,Wednesday,Cold Coffee,Coffee,140,1,UPI,Yes,,140
+ORD100802,2025-10-08,20,Wednesday,Cheesecake Slice,Dessert,150,1,UPI,Yes,3.0,150
+ORD100521,2025-10-09,12,Thursday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD101031,2025-10-09,12,Thursday,Samosa,Food,25,1,Cash,Yes,5.0,25
+ORD100825,2025-10-09,14,Thursday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD100594,2025-10-09,16,Thursday,Filter Coffee,Coffee,40,4,UPI,No,3.0,160
+ORD100756,2025-10-09,17,Thursday,Cold Coffee,Coffee,140,3,UPI,Yes,4.0,420
+ORD100986,2025-10-10,7,Friday,Cold Coffee,Coffee,140,1,UPI,No,5.0,140
+ORD100046,2025-10-10,12,Friday,Cold Coffee,Coffee,140,4,UPI,Yes,4.0,560
+ORD100174,2025-10-10,12,Friday,Filter Coffee,Coffee,40,3,Cash,Yes,3.0,120
+ORD101143,2025-10-10,12,Friday,Brownie,Dessert,90,1,Card,Yes,,90
+ORD100261,2025-10-10,16,Friday,Brownie,Dessert,90,2,Cash,Yes,4.0,180
+ORD100823,2025-10-11,10,Saturday,Veg Sandwich,Food,110,1,UPI,Yes,4.0,110
+ORD100600,2025-10-11,15,Saturday,Masala Chai,Tea,30,2,UPI,No,3.0,60
+ORD100822,2025-10-11,19,Saturday,Cappuccino,Coffee,120,2,Card,No,4.0,240
+ORD100048,2025-10-12,7,Sunday,Veg Sandwich,Food,110,2,Card,Yes,4.0,220
+ORD100457,2025-10-12,11,Sunday,Masala Chai,Tea,30,3,Cash,No,5.0,90
+ORD100202,2025-10-12,12,Sunday,Masala Chai,Tea,30,1,UPI,No,,30
+ORD101028,2025-10-12,14,Sunday,Samosa,Food,25,1,Card,Yes,2.0,25
+ORD101079,2025-10-12,16,Sunday,Cold Coffee,Coffee,140,3,UPI,No,4.0,420
+ORD100673,2025-10-13,8,Monday,Samosa,Food,25,1,Card,Yes,,25
+ORD101164,2025-10-13,15,Monday,Filter Coffee,Coffee,40,1,Card,Yes,4.0,40
+ORD100949,2025-10-13,16,Monday,Cold Coffee,Coffee,140,1,UPI,Yes,1.0,140
+ORD100587,2025-10-13,17,Monday,Cold Coffee,Coffee,140,2,UPI,Yes,5.0,280
+ORD100925,2025-10-13,18,Monday,Cappuccino,Coffee,120,1,Cash,No,,120
+ORD100247,2025-10-15,8,Wednesday,Masala Chai,Tea,30,2,Cash,Yes,4.0,60
+ORD100922,2025-10-15,16,Wednesday,Green Tea,Tea,60,1,UPI,No,2.0,60
+ORD101021,2025-10-15,16,Wednesday,Samosa,Food,25,1,UPI,No,2.0,25
+ORD100654,2025-10-15,20,Wednesday,Brownie,Dessert,90,1,UPI,No,5.0,90
+ORD100981,2025-10-15,22,Wednesday,Samosa,Food,25,1,UPI,No,5.0,25
+ORD100729,2025-10-16,14,Thursday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100324,2025-10-16,16,Thursday,Brownie,Dessert,90,1,UPI,No,,90
+ORD100408,2025-10-16,19,Thursday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100270,2025-10-17,7,Friday,Filter Coffee,Coffee,40,4,UPI,Yes,3.0,160
+ORD100400,2025-10-17,11,Friday,Cold Coffee,Coffee,140,1,Cash,Yes,5.0,140
+ORD100753,2025-10-17,12,Friday,Masala Chai,Tea,30,2,Card,Yes,4.0,60
+ORD100995,2025-10-18,8,Saturday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100498,2025-10-18,9,Saturday,Cold Coffee,Coffee,140,1,Cash,Yes,,140
+ORD101163,2025-10-18,11,Saturday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100301,2025-10-18,12,Saturday,Filter Coffee,Coffee,40,1,Cash,No,4.0,40
+ORD100146,2025-10-18,13,Saturday,Cold Coffee,Coffee,140,2,UPI,Yes,5.0,280
+ORD101082,2025-10-18,14,Saturday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,4.0,260
+ORD100992,2025-10-18,17,Saturday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100895,2025-10-18,19,Saturday,Brownie,Dessert,90,1,Cash,Yes,2.0,90
+ORD100431,2025-10-18,22,Saturday,Samosa,Food,25,3,Card,Yes,,75
+ORD100156,2025-10-19,7,Sunday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD101080,2025-10-19,15,Sunday,Cappuccino,Coffee,120,1,Cash,Yes,4.0,120
+ORD101170,2025-10-19,15,Sunday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100984,2025-10-19,17,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100656,2025-10-20,8,Monday,Brownie,Dessert,90,1,UPI,Yes,3.0,90
+ORD100170,2025-10-20,10,Monday,Cappuccino,Coffee,120,1,UPI,Yes,5.0,120
+ORD100134,2025-10-20,11,Monday,Green Tea,Tea,60,1,Cash,Yes,4.0,60
+ORD100636,2025-10-20,15,Monday,Veg Sandwich,Food,110,3,Card,Yes,,330
+ORD100899,2025-10-20,15,Monday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD100096,2025-10-20,17,Monday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100582,2025-10-20,17,Monday,Filter Coffee,Coffee,40,1,UPI,No,2.0,40
+ORD100501,2025-10-20,18,Monday,Brownie,Dessert,90,1,Card,No,4.0,90
+ORD100166,2025-10-20,19,Monday,Brownie,Dessert,90,1,Cash,No,4.0,90
+ORD100144,2025-10-21,18,Tuesday,Masala Chai,Tea,30,2,UPI,No,4.0,60
+ORD100131,2025-10-22,8,Wednesday,Mango Smoothie,Cold Drinks,130,1,Card,Yes,5.0,130
+ORD100534,2025-10-22,19,Wednesday,Filter Coffee,Coffee,40,1,Card,Yes,3.0,40
+ORD100347,2025-10-23,13,Thursday,Cappuccino,Coffee,120,3,UPI,Yes,4.0,360
+ORD100845,2025-10-23,14,Thursday,Brownie,Dessert,90,1,UPI,Yes,3.0,90
+ORD101107,2025-10-24,10,Friday,Cold Coffee,Coffee,140,1,UPI,No,4.0,140
+ORD100797,2025-10-24,16,Friday,Filter Coffee,Coffee,40,1,Card,Yes,4.0,40
+ORD100283,2025-10-24,18,Friday,Cappuccino,Coffee,120,2,Cash,Yes,,240
+ORD100609,2025-10-24,18,Friday,Masala Chai,Tea,30,2,UPI,No,5.0,60
+ORD100677,2025-10-25,13,Saturday,Masala Chai,Tea,30,2,UPI,No,,60
+ORD101000,2025-10-25,15,Saturday,Filter Coffee,Coffee,40,3,UPI,Yes,2.0,120
+ORD100807,2025-10-25,19,Saturday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD101054,2025-10-26,13,Sunday,Cappuccino,Coffee,120,1,Cash,Yes,,120
+ORD100472,2025-10-26,15,Sunday,Filter Coffee,Coffee,40,2,UPI,No,4.0,80
+ORD100115,2025-10-27,12,Monday,Brownie,Dessert,90,1,UPI,No,5.0,90
+ORD100963,2025-10-27,15,Monday,Filter Coffee,Coffee,40,4,Card,No,5.0,160
+ORD100681,2025-10-27,18,Monday,Cappuccino,Coffee,120,1,Card,No,3.0,120
+ORD100544,2025-10-28,10,Tuesday,Filter Coffee,Coffee,40,1,Cash,No,2.0,40
+ORD100768,2025-10-28,17,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100583,2025-10-28,20,Tuesday,Cold Coffee,Coffee,140,1,UPI,No,3.0,140
+ORD101120,2025-10-29,12,Wednesday,Veg Sandwich,Food,110,1,UPI,No,5.0,110
+ORD100209,2025-10-29,15,Wednesday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100023,2025-10-29,17,Wednesday,Cheesecake Slice,Dessert,150,3,UPI,Yes,,450
+ORD101139,2025-10-29,18,Wednesday,Veg Sandwich,Food,110,2,Card,Yes,5.0,220
+ORD100054,2025-10-30,7,Thursday,Samosa,Food,25,1,Cash,No,4.0,25
+ORD100005,2025-10-30,11,Thursday,Mango Smoothie,Cold Drinks,130,2,Card,Yes,5.0,260
+ORD100666,2025-10-30,12,Thursday,Samosa,Food,25,2,UPI,Yes,4.0,50
+ORD100421,2025-10-30,16,Thursday,Filter Coffee,Coffee,40,2,Card,No,4.0,80
+ORD101039,2025-10-30,16,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,3.0,40
+ORD101122,2025-10-30,16,Thursday,Brownie,Dessert,90,2,Cash,Yes,5.0,180
+ORD100980,2025-10-31,13,Friday,Mango Smoothie,Cold Drinks,130,1,UPI,No,,130
+ORD100726,2025-10-31,14,Friday,Cappuccino,Coffee,120,1,Cash,No,3.0,120
+ORD100462,2025-11-01,8,Saturday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,4.0,260
+ORD100389,2025-11-01,10,Saturday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100789,2025-11-01,13,Saturday,Green Tea,Tea,60,1,UPI,Yes,5.0,60
+ORD100829,2025-11-01,14,Saturday,Cappuccino,Coffee,120,2,Card,No,,240
+ORD100303,2025-11-02,8,Sunday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD100650,2025-11-02,13,Sunday,Masala Chai,Tea,30,3,UPI,Yes,5.0,90
+ORD100383,2025-11-02,14,Sunday,Masala Chai,Tea,30,1,UPI,Yes,1.0,30
+ORD100747,2025-11-02,19,Sunday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD101106,2025-11-02,22,Sunday,Filter Coffee,Coffee,40,2,Cash,No,4.0,80
+ORD100050,2025-11-03,14,Monday,Cappuccino,Coffee,120,3,UPI,Yes,3.0,360
+ORD100056,2025-11-03,14,Monday,Masala Chai,Tea,30,1,UPI,Yes,,30
+ORD100830,2025-11-03,20,Monday,Green Tea,Tea,60,1,UPI,No,5.0,60
+ORD100425,2025-11-04,7,Tuesday,Samosa,Food,25,2,Card,No,,50
+ORD101171,2025-11-04,9,Tuesday,Samosa,Food,25,1,UPI,Yes,4.0,25
+ORD101058,2025-11-04,12,Tuesday,Masala Chai,Tea,30,1,UPI,No,,30
+ORD100038,2025-11-05,13,Wednesday,Cappuccino,Coffee,120,3,Card,No,,360
+ORD100933,2025-11-06,9,Thursday,Samosa,Food,25,1,UPI,Yes,,25
+ORD100915,2025-11-06,12,Thursday,Mango Smoothie,Cold Drinks,130,1,Cash,No,,130
+ORD100220,2025-11-06,15,Thursday,Cold Coffee,Coffee,140,2,UPI,Yes,3.0,280
+ORD100755,2025-11-06,15,Thursday,Cappuccino,Coffee,120,1,Card,Yes,4.0,120
+ORD100518,2025-11-07,7,Friday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100272,2025-11-07,12,Friday,Filter Coffee,Coffee,40,1,UPI,No,1.0,40
+ORD100931,2025-11-07,19,Friday,Cold Coffee,Coffee,140,4,UPI,Yes,4.0,560
+ORD100254,2025-11-07,21,Friday,Cappuccino,Coffee,120,1,Card,Yes,3.0,120
+ORD100111,2025-11-08,13,Saturday,Cappuccino,Coffee,120,3,UPI,Yes,1.0,360
+ORD100239,2025-11-08,15,Saturday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD101177,2025-11-09,11,Sunday,Cold Coffee,Coffee,140,1,UPI,Yes,4.0,140
+ORD100271,2025-11-09,15,Sunday,Filter Coffee,Coffee,40,2,UPI,Yes,,80
+ORD100593,2025-11-09,17,Sunday,Green Tea,Tea,60,1,UPI,No,4.0,60
+ORD100978,2025-11-10,12,Monday,Masala Chai,Tea,30,1,UPI,Yes,5.0,30
+ORD100938,2025-11-10,18,Monday,Cheesecake Slice,Dessert,150,1,UPI,Yes,4.0,150
+ORD100706,2025-11-11,9,Tuesday,Samosa,Food,25,3,Cash,Yes,,75
+ORD100863,2025-11-11,11,Tuesday,Masala Chai,Tea,30,3,Card,Yes,3.0,90
+ORD100468,2025-11-11,15,Tuesday,Filter Coffee,Coffee,40,2,Card,No,5.0,80
+ORD100446,2025-11-11,16,Tuesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,3.0,130
+ORD100081,2025-11-11,20,Tuesday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD100200,2025-11-12,9,Wednesday,Samosa,Food,25,2,UPI,Yes,5.0,50
+ORD101055,2025-11-12,12,Wednesday,Veg Sandwich,Food,110,1,Card,No,,110
+ORD100505,2025-11-12,15,Wednesday,Samosa,Food,25,1,UPI,No,4.0,25
+ORD100502,2025-11-12,16,Wednesday,Mango Smoothie,Cold Drinks,130,1,UPI,No,4.0,130
+ORD100719,2025-11-13,7,Thursday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,4.0,130
+ORD100417,2025-11-13,15,Thursday,Samosa,Food,25,1,UPI,Yes,3.0,25
+ORD100939,2025-11-13,16,Thursday,Filter Coffee,Coffee,40,1,Cash,No,4.0,40
+ORD101062,2025-11-13,17,Thursday,Cappuccino,Coffee,120,2,UPI,No,5.0,240
+ORD100157,2025-11-13,19,Thursday,Veg Sandwich,Food,110,1,UPI,Yes,5.0,110
+ORD101069,2025-11-13,21,Thursday,Masala Chai,Tea,30,1,Cash,No,4.0,30
+ORD100478,2025-11-14,10,Friday,Veg Sandwich,Food,110,2,UPI,No,2.0,220
+ORD100396,2025-11-15,10,Saturday,Brownie,Dessert,90,1,Card,No,,90
+ORD100759,2025-11-15,14,Saturday,Masala Chai,Tea,30,1,UPI,Yes,3.0,30
+ORD100355,2025-11-15,18,Saturday,Masala Chai,Tea,30,1,Cash,No,,30
+ORD101017,2025-11-16,12,Sunday,Brownie,Dessert,90,1,UPI,No,4.0,90
+ORD100957,2025-11-16,13,Sunday,Masala Chai,Tea,30,2,UPI,No,3.0,60
+ORD100309,2025-11-16,18,Sunday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100277,2025-11-17,14,Monday,Masala Chai,Tea,30,1,Cash,Yes,5.0,30
+ORD100251,2025-11-17,19,Monday,Brownie,Dessert,90,1,UPI,Yes,2.0,90
+ORD100300,2025-11-18,7,Tuesday,Samosa,Food,25,3,UPI,No,3.0,75
+ORD101178,2025-11-18,7,Tuesday,Cappuccino,Coffee,120,2,UPI,Yes,4.0,240
+ORD100250,2025-11-18,10,Tuesday,Veg Sandwich,Food,110,2,Cash,No,4.0,220
+ORD101147,2025-11-18,12,Tuesday,Samosa,Food,25,4,UPI,Yes,3.0,100
+ORD101180,2025-11-18,20,Tuesday,Samosa,Food,25,2,Cash,Yes,5.0,50
+ORD100838,2025-11-19,11,Wednesday,Masala Chai,Tea,30,1,UPI,No,,30
+ORD100356,2025-11-19,15,Wednesday,Samosa,Food,25,3,Cash,No,,75
+ORD100645,2025-11-19,15,Wednesday,Brownie,Dessert,90,1,UPI,No,,90
+ORD101027,2025-11-19,16,Wednesday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD101073,2025-11-20,10,Thursday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,3.0,260
+ORD101105,2025-11-21,11,Friday,Samosa,Food,25,2,Cash,Yes,5.0,50
+ORD100051,2025-11-21,14,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100725,2025-11-21,15,Friday,Filter Coffee,Coffee,40,1,UPI,No,2.0,40
+ORD100097,2025-11-21,16,Friday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD100761,2025-11-21,16,Friday,Filter Coffee,Coffee,40,4,Cash,No,5.0,160
+ORD100070,2025-11-22,20,Saturday,Cappuccino,Coffee,120,1,UPI,Yes,4.0,120
+ORD100629,2025-11-23,8,Sunday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100045,2025-11-23,13,Sunday,Samosa,Food,25,1,Card,Yes,4.0,25
+ORD100577,2025-11-24,12,Monday,Green Tea,Tea,60,1,UPI,Yes,1.0,60
+ORD100842,2025-11-24,18,Monday,Masala Chai,Tea,30,1,UPI,No,3.0,30
+ORD100708,2025-11-25,11,Tuesday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD100437,2025-11-25,15,Tuesday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100588,2025-11-26,10,Wednesday,Cappuccino,Coffee,120,3,Card,Yes,5.0,360
+ORD100377,2025-11-26,11,Wednesday,Masala Chai,Tea,30,1,Card,No,5.0,30
+ORD101117,2025-11-26,14,Wednesday,Samosa,Food,25,1,Card,No,,25
+ORD100538,2025-11-26,18,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100727,2025-11-28,14,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100897,2025-11-28,14,Friday,Cappuccino,Coffee,120,1,UPI,No,4.0,120
+ORD100292,2025-11-29,10,Saturday,Mango Smoothie,Cold Drinks,130,1,UPI,No,5.0,130
+ORD100694,2025-11-29,12,Saturday,Cheesecake Slice,Dessert,150,1,UPI,Yes,4.0,150
+ORD100384,2025-11-29,13,Saturday,Cold Coffee,Coffee,140,1,Card,No,5.0,140
+ORD101189,2025-11-29,20,Saturday,Veg Sandwich,Food,110,2,Cash,No,5.0,220
+ORD100232,2025-11-30,9,Sunday,Mango Smoothie,Cold Drinks,130,1,UPI,No,4.0,130
+ORD100493,2025-11-30,10,Sunday,Cold Coffee,Coffee,140,1,UPI,No,4.0,140
+ORD100983,2025-11-30,11,Sunday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100801,2025-11-30,20,Sunday,Cold Coffee,Coffee,140,1,UPI,Yes,,140
+ORD100929,2025-12-01,7,Monday,Samosa,Food,25,1,UPI,Yes,5.0,25
+ORD100395,2025-12-01,11,Monday,Masala Chai,Tea,30,3,UPI,No,,90
+ORD100130,2025-12-01,15,Monday,Filter Coffee,Coffee,40,1,Cash,No,3.0,40
+ORD101001,2025-12-02,17,Tuesday,Masala Chai,Tea,30,2,UPI,Yes,,60
+ORD101044,2025-12-02,18,Tuesday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD101119,2025-12-03,9,Wednesday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100224,2025-12-03,12,Wednesday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD100430,2025-12-03,12,Wednesday,Mango Smoothie,Cold Drinks,130,2,Card,No,4.0,260
+ORD100560,2025-12-03,16,Wednesday,Filter Coffee,Coffee,40,2,Card,Yes,4.0,80
+ORD100800,2025-12-03,17,Wednesday,Samosa,Food,25,1,Cash,Yes,3.0,25
+ORD100875,2025-12-04,14,Thursday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100223,2025-12-04,15,Thursday,Mango Smoothie,Cold Drinks,130,3,UPI,Yes,3.0,390
+ORD100132,2025-12-04,16,Thursday,Green Tea,Tea,60,1,UPI,Yes,,60
+ORD100169,2025-12-05,12,Friday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,5.0,260
+ORD100211,2025-12-05,12,Friday,Green Tea,Tea,60,4,Card,Yes,2.0,240
+ORD101094,2025-12-05,20,Friday,Green Tea,Tea,60,1,UPI,Yes,4.0,60
+ORD100461,2025-12-06,11,Saturday,Filter Coffee,Coffee,40,2,UPI,Yes,5.0,80
+ORD100912,2025-12-06,11,Saturday,Cheesecake Slice,Dessert,150,2,UPI,Yes,,300
+ORD100274,2025-12-06,12,Saturday,Veg Sandwich,Food,110,1,Cash,Yes,,110
+ORD100713,2025-12-06,12,Saturday,Cheesecake Slice,Dessert,150,2,Cash,Yes,3.0,300
+ORD100099,2025-12-06,13,Saturday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,4.0,130
+ORD100332,2025-12-06,16,Saturday,Veg Sandwich,Food,110,1,Cash,Yes,5.0,110
+ORD100092,2025-12-06,17,Saturday,Masala Chai,Tea,30,2,Cash,Yes,,60
+ORD100602,2025-12-06,20,Saturday,Cheesecake Slice,Dessert,150,2,UPI,Yes,4.0,300
+ORD100012,2025-12-06,22,Saturday,Veg Sandwich,Food,110,1,Card,Yes,5.0,110
+ORD100171,2025-12-07,17,Sunday,Masala Chai,Tea,30,2,UPI,No,5.0,60
+ORD100486,2025-12-07,18,Sunday,Masala Chai,Tea,30,2,UPI,Yes,5.0,60
+ORD100294,2025-12-08,9,Monday,Brownie,Dessert,90,1,UPI,Yes,5.0,90
+ORD100477,2025-12-08,10,Monday,Green Tea,Tea,60,1,UPI,Yes,5.0,60
+ORD100230,2025-12-08,11,Monday,Filter Coffee,Coffee,40,2,UPI,Yes,4.0,80
+ORD100541,2025-12-08,12,Monday,Masala Chai,Tea,30,3,Cash,No,5.0,90
+ORD100057,2025-12-08,15,Monday,Masala Chai,Tea,30,2,Cash,Yes,5.0,60
+ORD100381,2025-12-08,15,Monday,Mango Smoothie,Cold Drinks,130,1,Card,No,,130
+ORD100552,2025-12-08,15,Monday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD101038,2025-12-08,17,Monday,Masala Chai,Tea,30,2,Card,Yes,,60
+ORD100248,2025-12-08,18,Monday,Cold Coffee,Coffee,140,2,UPI,Yes,4.0,280
+ORD100390,2025-12-08,18,Monday,Veg Sandwich,Food,110,1,UPI,No,,110
+ORD100951,2025-12-09,15,Tuesday,Cappuccino,Coffee,120,1,UPI,Yes,,120
+ORD101152,2025-12-09,16,Tuesday,Filter Coffee,Coffee,40,4,Cash,No,,160
+ORD100771,2025-12-09,18,Tuesday,Masala Chai,Tea,30,2,UPI,No,4.0,60
+ORD100312,2025-12-10,13,Wednesday,Cappuccino,Coffee,120,3,Card,No,5.0,360
+ORD100427,2025-12-11,7,Thursday,Brownie,Dessert,90,1,UPI,Yes,4.0,90
+ORD100909,2025-12-11,12,Thursday,Cappuccino,Coffee,120,1,Card,No,4.0,120
+ORD101061,2025-12-11,17,Thursday,Green Tea,Tea,60,1,Cash,Yes,4.0,60
+ORD100219,2025-12-12,7,Friday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100343,2025-12-12,15,Friday,Green Tea,Tea,60,1,UPI,Yes,5.0,60
+ORD100517,2025-12-12,15,Friday,Samosa,Food,25,3,Cash,Yes,5.0,75
+ORD100127,2025-12-13,7,Saturday,Filter Coffee,Coffee,40,1,Cash,Yes,5.0,40
+ORD100785,2025-12-13,13,Saturday,Cold Coffee,Coffee,140,2,UPI,Yes,5.0,280
+ORD101040,2025-12-13,13,Saturday,Filter Coffee,Coffee,40,2,UPI,No,4.0,80
+ORD100507,2025-12-13,16,Saturday,Brownie,Dessert,90,1,UPI,Yes,3.0,90
+ORD101174,2025-12-14,17,Sunday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD100635,2025-12-15,7,Monday,Filter Coffee,Coffee,40,1,UPI,Yes,,40
+ORD100142,2025-12-16,10,Tuesday,Mango Smoothie,Cold Drinks,130,1,UPI,Yes,4.0,130
+ORD101087,2025-12-16,11,Tuesday,Samosa,Food,25,2,UPI,Yes,4.0,50
+ORD100369,2025-12-16,22,Tuesday,Cheesecake Slice,Dessert,150,2,UPI,No,5.0,300
+ORD100330,2025-12-17,12,Wednesday,Samosa,Food,25,1,Cash,Yes,4.0,25
+ORD100810,2025-12-17,16,Wednesday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100997,2025-12-17,18,Wednesday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100603,2025-12-17,20,Wednesday,Samosa,Food,25,2,Cash,No,3.0,50
+ORD100982,2025-12-17,20,Wednesday,Samosa,Food,25,1,Card,Yes,2.0,25
+ORD100413,2025-12-18,11,Thursday,Cheesecake Slice,Dessert,150,1,UPI,Yes,,150
+ORD100276,2025-12-18,12,Thursday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100112,2025-12-18,15,Thursday,Cold Coffee,Coffee,140,1,UPI,Yes,5.0,140
+ORD100269,2025-12-18,16,Thursday,Filter Coffee,Coffee,40,1,UPI,No,3.0,40
+ORD100267,2025-12-19,9,Friday,Filter Coffee,Coffee,40,2,Card,Yes,2.0,80
+ORD100436,2025-12-19,14,Friday,Filter Coffee,Coffee,40,2,Card,Yes,1.0,80
+ORD100813,2025-12-19,22,Friday,Green Tea,Tea,60,2,Card,No,4.0,120
+ORD100198,2025-12-20,10,Saturday,Cappuccino,Coffee,120,2,UPI,Yes,2.0,240
+ORD100882,2025-12-20,12,Saturday,Mango Smoothie,Cold Drinks,130,3,UPI,No,,390
+ORD100405,2025-12-20,19,Saturday,Brownie,Dessert,90,2,UPI,No,1.0,180
+ORD100178,2025-12-20,20,Saturday,Cheesecake Slice,Dessert,150,2,UPI,No,4.0,300
+ORD100188,2025-12-21,7,Sunday,Samosa,Food,25,2,UPI,No,3.0,50
+ORD101115,2025-12-21,10,Sunday,Filter Coffee,Coffee,40,1,UPI,No,4.0,40
+ORD100141,2025-12-21,12,Sunday,Masala Chai,Tea,30,1,UPI,No,,30
+ORD100439,2025-12-21,13,Sunday,Veg Sandwich,Food,110,2,UPI,No,4.0,220
+ORD100210,2025-12-21,14,Sunday,Veg Sandwich,Food,110,1,UPI,No,3.0,110
+ORD101110,2025-12-21,20,Sunday,Filter Coffee,Coffee,40,1,Cash,Yes,4.0,40
+ORD100562,2025-12-22,13,Monday,Brownie,Dessert,90,1,Cash,Yes,4.0,90
+ORD100954,2025-12-22,17,Monday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,4.0,260
+ORD100349,2025-12-22,20,Monday,Filter Coffee,Coffee,40,1,Card,Yes,5.0,40
+ORD100479,2025-12-23,14,Tuesday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD100423,2025-12-23,22,Tuesday,Filter Coffee,Coffee,40,1,UPI,Yes,4.0,40
+ORD100471,2025-12-23,22,Tuesday,Masala Chai,Tea,30,2,UPI,Yes,4.0,60
+ORD100135,2025-12-24,9,Wednesday,Filter Coffee,Coffee,40,4,UPI,No,2.0,160
+ORD100798,2025-12-24,12,Wednesday,Samosa,Food,25,1,Cash,Yes,4.0,25
+ORD100226,2025-12-24,13,Wednesday,Filter Coffee,Coffee,40,2,Card,Yes,4.0,80
+ORD101025,2025-12-24,16,Wednesday,Cold Coffee,Coffee,140,3,UPI,Yes,,420
+ORD100573,2025-12-25,10,Thursday,Samosa,Food,25,4,Card,No,5.0,100
+ORD100154,2025-12-25,16,Thursday,Filter Coffee,Coffee,40,1,UPI,No,5.0,40
+ORD100289,2025-12-25,17,Thursday,Filter Coffee,Coffee,40,1,UPI,Yes,5.0,40
+ORD100869,2025-12-25,19,Thursday,Cappuccino,Coffee,120,3,Card,Yes,,360
+ORD101003,2025-12-26,11,Friday,Filter Coffee,Coffee,40,1,UPI,Yes,2.0,40
+ORD100960,2025-12-26,15,Friday,Masala Chai,Tea,30,1,Card,No,4.0,30
+ORD100818,2025-12-26,16,Friday,Veg Sandwich,Food,110,2,UPI,No,3.0,220
+ORD101192,2025-12-26,19,Friday,Brownie,Dessert,90,1,Card,No,5.0,90
+ORD100970,2025-12-27,13,Saturday,Cappuccino,Coffee,120,1,Card,No,,120
+ORD100252,2025-12-27,17,Saturday,Masala Chai,Tea,30,1,UPI,Yes,4.0,30
+ORD101011,2025-12-27,17,Saturday,Green Tea,Tea,60,1,UPI,Yes,4.0,60
+ORD100402,2025-12-28,11,Sunday,Samosa,Food,25,3,UPI,Yes,4.0,75
+ORD101133,2025-12-28,11,Sunday,Samosa,Food,25,1,UPI,No,4.0,25
+ORD100354,2025-12-28,16,Sunday,Masala Chai,Tea,30,4,UPI,Yes,5.0,120
+ORD100748,2025-12-28,18,Sunday,Samosa,Food,25,2,Card,Yes,,50
+ORD100837,2025-12-29,8,Monday,Mango Smoothie,Cold Drinks,130,2,UPI,Yes,2.0,260
+ORD100367,2025-12-29,14,Monday,Veg Sandwich,Food,110,4,Cash,Yes,,440
+ORD100878,2025-12-29,19,Monday,Green Tea,Tea,60,1,Cash,Yes,4.0,60
+ORD100216,2025-12-29,21,Monday,Filter Coffee,Coffee,40,2,UPI,No,,80
+ORD100757,2025-12-30,14,Tuesday,Mango Smoothie,Cold Drinks,130,3,UPI,No,,390
+ORD100774,2025-12-30,16,Tuesday,Filter Coffee,Coffee,40,1,Cash,No,5.0,40
+ORD100119,2025-12-30,17,Tuesday,Veg Sandwich,Food,110,2,Cash,Yes,3.0,220
+ORD100555,2025-12-30,19,Tuesday,Cappuccino,Coffee,120,2,UPI,Yes,4.0,240
+ORD100721,2025-12-31,17,Wednesday,Masala Chai,Tea,30,1,UPI,No,4.0,30
+ORD100806,2025-12-31,21,Wednesday,Veg Sandwich,Food,110,2,Card,Yes,5.0,220
